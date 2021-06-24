@@ -1,0 +1,5 @@
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-09-02 06:34:59
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-bytes cs-bytes 
+2013-09-02 06:34:59 W3SVC669312 GET /pcss/contacto.css - - 180.76.5.54 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - www.empestol.com.mx 200 6349 238

@@ -1,0 +1,55 @@
+h2#imPgTitle {float: left; margin-left: 6px; margin-right: 6px; width: 932px;}
+#imCell_15 { display: block; position: relative; overflow: hidden; width: 334px; min-height: 428px; border-top: 3px solid transparent; border-bottom: 3px solid transparent; border-left: 3px solid transparent; border-right: 3px solid transparent;}
+#imCellStyle_15 { position: relative; width: 328px; min-height: 377px; padding: 38px 3px 13px 3px; text-align: center; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; z-index: 2;}
+#imCellStyleTitle_15 { position: absolute; padding: 2px 0; top: 0px; left: 0px; right: 0px; text-align: center; font-family: Ubuntu; font-size: 12pt; font-style: italic; font-weight: bold; color: #FFFFFF; background-color: #809FFF; z-index: 4;}
+#imCellStyleGraphics_15 { position: absolute; top: 0; bottom: 0; left: 0; right: 0; background-color: #BFCFFF;}
+#imTextObject_15 { line-height: 1px; font-size: 1pt; font-style: normal; color: black; font-weight: normal; }
+#imTextObject_15 a { color: inherit; }
+#imTextObject_15 ul { list-style: disc; margin: 0px; padding: 0px; }
+#imTextObject_15 ul li { margin: 0px 0px 0px 15px; padding: 0px; font-size: 9pt; line-height: 19px;}
+#imTextObject_15 table { margin: 0 auto; padding: 0; border-collapse: collapse; border-spacing:0; line-height: inherit; }
+#imTextObject_15 table td { padding: 4px 3px 4px 3px; margin: 0px; line-height: 1px; font-size: 1pt; }
+#imTextObject_15 p { margin: 0; padding: 0; }
+#imTextObject_15 img { border: none; margin: 0px 0px; vertical-align: text-bottom;}
+#imTextObject_15 img.fleft { float: left; margin-right: 15px; vertical-align: baseline;}
+#imTextObject_15 img.fright { float: right; margin-left: 15px; vertical-align: baseline;}
+#imTextObject_15 .imUl { text-decoration: underline; }
+#imTextObject_15 .ff0 { font-family: "Tahoma"; }
+#imTextObject_15 .ff1 { font-family: "Tahoma"; }
+#imTextObject_15 .ff2 { font-family: "Ubuntu"; }
+#imTextObject_15 .cf1 { color: #000000; }
+#imTextObject_15 .cf2 { color: #FFFFFF; }
+#imTextObject_15 .cf3 { color: #002080; }
+#imTextObject_15 .cf4 { color: #FF0000; }
+#imTextObject_15 .cf5 { color: #C0C0C0; }
+#imTextObject_15 .cf6 { color: #808080; }
+#imTextObject_15 .cf7 { color: #000000; }
+#imTextObject_15 .fs20 { vertical-align: baseline; font-size: 10pt; line-height: 20px; }
+#imTextObject_15 .fs28 { vertical-align: baseline; font-size: 14pt; line-height: 25px;}
+#imTextObject_15 .fs24 { vertical-align: baseline; font-size: 12pt; line-height: 23px;}
+#imTextObject_15 .cb1 { background-color: #000000; }
+#imTextObject_15 .cb2 { background-color: transparent; }
+#imTextObject_15 .cb3 { background-color: #002080; }
+#imTextObject_15 .cb4 { background-color: #FF0000; }
+#imTextObject_15 .cb5 { background-color: #C0C0C0; }
+#imTextObject_15 .cb6 { background-color: #808080; }
+#imTextObject_15 .cb7 { background-color: #000000; }
+#imCell_16 { display: block; position: relative; overflow: hidden; width: 337px; min-height: 428px; border-top: 3px solid transparent; border-bottom: 3px solid transparent; border-left: 3px solid transparent; border-right: 3px solid transparent;}
+#imCellStyle_16 { position: relative; width: 331px; min-height: 351px; padding: 51px 3px 26px 3px; text-align: center; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; z-index: 2;}
+#imCellStyleTitle_16 { position: absolute; padding: 2px 0; top: 0px; left: 0px; right: 0px; text-align: center; font-family: Ubuntu; font-size: 12pt; font-style: italic; font-weight: bold; color: #FFFFFF; background-color: #FFBF00; z-index: 4;}
+#imCellStyleGraphics_16 { position: absolute; top: 0; bottom: 0; left: 0; right: 0; background-color: #FFEFBF;}
+#imCell_17 { display: block; position: relative; overflow: hidden; width: 255px; min-height: 428px; border-top: 3px solid transparent; border-bottom: 3px solid transparent; border-left: 3px solid transparent; border-right: 3px solid transparent;}
+#imCellStyle_17 { position: relative; width: 249px; min-height: 397px; padding: 28px 3px 3px 3px; text-align: center; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; z-index: 2;}
+#imCellStyleTitle_17 { position: absolute; padding: 2px 0; top: 0px; left: 0px; right: 0px; text-align: center; font-family: Ubuntu; font-size: 12pt; font-style: italic; font-weight: bold; color: #FFFFFF; background-color: #809FFF; z-index: 4;}
+#imCellStyleGraphics_17 { position: absolute; top: 0; bottom: 0; left: 0; right: 0; background-color: #BFCFFF;}
+#imObjectForm_17 { font-family: Ubuntu, sans serif; font-size: 8pt; font-weight: bold; text-align: left; }
+#imObjectForm_17 label, #imObjectForm_17 .checkbox, #imObjectForm_17 .radiobutton { color: #002080; font-family: Ubuntu, sans serif; font-size: 8pt; font-weight: bold; }
+#imObjectForm_17 fieldset { margin: 0; padding: 10px 0 0 0; }
+#imObjectForm_17 fieldset.first { margin: 0; padding: 0; }
+#imObjectForm_17 div.legend { color: #002080; font-family: Ubuntu, sans serif; font-size: 8pt; font-weight: bold; border-bottom: 1px solid transparent; }
+#imObjectForm_17 input, #imObjectForm_17 select, #imObjectForm_17 textarea { margin: 2px 0 3px; color: #000000; border: 1px solid transparent; background-color: #FFFFFF; font-family: Ubuntu, sans serif; font-size: 8pt; font-weight: bold; padding-left: 1px; padding-right: 1px;}
+#imObjectForm_17 input[type="checkbox"], #imObjectForm_17 input[type="radio"] { border: 0; background-color: transparent; }
+#imObjectForm_17 input.imFormFocus, #imObjectForm_17 select.imFormFocus, #imObjectForm_17 textarea.imFormFocus { color: #000000; background-color: #FFFFE0; }
+#imObjectForm_17 input[type="checkbox"].imFormFocus, #imObjectForm_17 input[type="radio"].imFormFocus { border: 0; background-color: transparent; }
+#imObjectForm_17 input.imFormMark, #imObjectForm_17 textarea.imFormMark { border: 1px solid #FF0000; }
+#imObjectForm_17 input[type="submit"], #imObjectForm_17 input[type="reset"], #imObjectForm_17 input[type="button"] { padding: 0; cursor: pointer; color: #002080; border: 1px solid #FFFFFF; background-color: #BFCFFF; vertical-align: top; line-height: 8px;height: 20px; }

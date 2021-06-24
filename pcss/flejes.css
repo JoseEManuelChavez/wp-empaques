@@ -1,0 +1,529 @@
+h2#imPgTitle {float: left; margin-left: 6px; margin-right: 6px; width: 940px;}
+#imCell_1 { display: block; position: relative; overflow: hidden; width: 470px; min-height: 29px; border-top: 3px solid transparent; border-bottom: 3px solid transparent; border-left: 3px solid transparent; border-right: 3px solid transparent;}
+#imCellStyle_1 { position: relative; width: 464px; min-height: 23px; padding: 3px 3px 3px 3px; text-align: center; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; z-index: 2;}
+#imCellStyleGraphics_1 { position: absolute; top: 0; bottom: 0; left: 0; right: 0; background-color: #FFBF00;}
+#imTextObject_1 { line-height: 1px; font-size: 1pt; font-style: normal; color: black; font-weight: normal; }
+#imTextObject_1 a { color: inherit; }
+#imTextObject_1 ul { list-style: disc; margin: 0px; padding: 0px; }
+#imTextObject_1 ul li { margin: 0px 0px 0px 15px; padding: 0px; font-size: 9pt; line-height: 19px;}
+#imTextObject_1 table { margin: 0 auto; padding: 0; border-collapse: collapse; border-spacing:0; line-height: inherit; }
+#imTextObject_1 table td { padding: 4px 3px 4px 3px; margin: 0px; line-height: 1px; font-size: 1pt; }
+#imTextObject_1 p { margin: 0; padding: 0; }
+#imTextObject_1 img { border: none; margin: 0px 0px; vertical-align: text-bottom;}
+#imTextObject_1 img.fleft { float: left; margin-right: 15px; vertical-align: baseline;}
+#imTextObject_1 img.fright { float: right; margin-left: 15px; vertical-align: baseline;}
+#imTextObject_1 .imUl { text-decoration: underline; }
+#imTextObject_1 .ff0 { font-family: "Tahoma"; }
+#imTextObject_1 .ff1 { font-family: "Tahoma"; }
+#imTextObject_1 .ff2 { font-family: "Ubuntu"; }
+#imTextObject_1 .cf1 { color: #000000; }
+#imTextObject_1 .cf2 { color: #FFFFFF; }
+#imTextObject_1 .cf3 { color: #000000; }
+#imTextObject_1 .fs20 { vertical-align: baseline; font-size: 10pt; line-height: 20px; }
+#imTextObject_1 .fs24 { vertical-align: baseline; font-size: 12pt; line-height: 23px;}
+#imTextObject_1 .fs18 { vertical-align: baseline; font-size: 9pt; line-height: 19px;}
+#imTextObject_1 .cb1 { background-color: #000000; }
+#imTextObject_1 .cb2 { background-color: transparent; }
+#imTextObject_1 .cb3 { background-color: #000000; }
+#imCell_3 { display: block; position: relative; overflow: hidden; width: 232px; min-height: 205px; border-top: 3px solid transparent; border-bottom: 3px solid transparent; border-left: 3px solid transparent; border-right: 3px solid transparent;}
+#imCellStyle_3 { position: relative; width: 224px; min-height: 197px; padding: 3px 3px 3px 3px; text-align: center; border-top: 1px solid #E0E0E0; border-bottom: 1px solid #E0E0E0; border-left: 1px solid #E0E0E0; border-right: 1px solid #E0E0E0; z-index: 2;}
+#imCellStyleGraphics_3 { position: absolute; top: 0; bottom: 0; left: 0; right: 0; background-color: transparent;}
+#imCell_4 { display: block; position: relative; overflow: hidden; width: 470px; min-height: 29px; border-top: 3px solid transparent; border-bottom: 3px solid transparent; border-left: 3px solid transparent; border-right: 3px solid transparent;}
+#imCellStyle_4 { position: relative; width: 464px; min-height: 23px; padding: 3px 3px 3px 3px; text-align: center; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; z-index: 2;}
+#imCellStyleGraphics_4 { position: absolute; top: 0; bottom: 0; left: 0; right: 0; background-color: #809FFF;}
+#imTextObject_4 { line-height: 1px; font-size: 1pt; font-style: normal; color: black; font-weight: normal; }
+#imTextObject_4 a { color: inherit; }
+#imTextObject_4 ul { list-style: disc; margin: 0px; padding: 0px; }
+#imTextObject_4 ul li { margin: 0px 0px 0px 15px; padding: 0px; font-size: 9pt; line-height: 19px;}
+#imTextObject_4 table { margin: 0 auto; padding: 0; border-collapse: collapse; border-spacing:0; line-height: inherit; }
+#imTextObject_4 table td { padding: 4px 3px 4px 3px; margin: 0px; line-height: 1px; font-size: 1pt; }
+#imTextObject_4 p { margin: 0; padding: 0; }
+#imTextObject_4 img { border: none; margin: 0px 0px; vertical-align: text-bottom;}
+#imTextObject_4 img.fleft { float: left; margin-right: 15px; vertical-align: baseline;}
+#imTextObject_4 img.fright { float: right; margin-left: 15px; vertical-align: baseline;}
+#imTextObject_4 .imUl { text-decoration: underline; }
+#imTextObject_4 .ff0 { font-family: "Tahoma"; }
+#imTextObject_4 .ff1 { font-family: "Ubuntu"; }
+#imTextObject_4 .ff2 { font-family: "Tahoma"; }
+#imTextObject_4 .cf1 { color: #000000; }
+#imTextObject_4 .cf2 { color: #FFFFFF; }
+#imTextObject_4 .cf3 { color: #E0E0E0; }
+#imTextObject_4 .cf4 { color: #000000; }
+#imTextObject_4 .fs20 { vertical-align: baseline; font-size: 10pt; line-height: 20px; }
+#imTextObject_4 .fs24 { vertical-align: baseline; font-size: 12pt; line-height: 23px;}
+#imTextObject_4 .fs18 { vertical-align: baseline; font-size: 9pt; line-height: 19px;}
+#imTextObject_4 .cb1 { background-color: #000000; }
+#imTextObject_4 .cb2 { background-color: transparent; }
+#imTextObject_4 .cb3 { background-color: #E0E0E0; }
+#imTextObject_4 .cb4 { background-color: #000000; }
+#imCell_6 { display: block; position: relative; overflow: hidden; width: 232px; min-height: 205px; border-top: 3px solid transparent; border-bottom: 3px solid transparent; border-left: 3px solid transparent; border-right: 3px solid transparent;}
+#imCellStyle_6 { position: relative; width: 224px; min-height: 197px; padding: 3px 3px 3px 3px; text-align: center; border-top: 1px solid #E0E0E0; border-bottom: 1px solid #E0E0E0; border-left: 1px solid #E0E0E0; border-right: 1px solid #E0E0E0; z-index: 2;}
+#imCellStyleGraphics_6 { position: absolute; top: 0; bottom: 0; left: 0; right: 0; background-color: transparent;}
+#imCell_7 { display: block; position: relative; overflow: hidden; width: 470px; min-height: 29px; border-top: 3px solid transparent; border-bottom: 3px solid transparent; border-left: 3px solid transparent; border-right: 3px solid transparent;}
+#imCellStyle_7 { position: relative; width: 464px; min-height: 23px; padding: 3px 3px 3px 3px; text-align: center; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; z-index: 2;}
+#imCellStyleGraphics_7 { position: absolute; top: 0; bottom: 0; left: 0; right: 0; background-color: #809FFF;}
+#imTextObject_7 { line-height: 1px; font-size: 1pt; font-style: normal; color: black; font-weight: normal; }
+#imTextObject_7 a { color: inherit; }
+#imTextObject_7 ul { list-style: disc; margin: 0px; padding: 0px; }
+#imTextObject_7 ul li { margin: 0px 0px 0px 15px; padding: 0px; font-size: 9pt; line-height: 19px;}
+#imTextObject_7 table { margin: 0 auto; padding: 0; border-collapse: collapse; border-spacing:0; line-height: inherit; }
+#imTextObject_7 table td { padding: 4px 3px 4px 3px; margin: 0px; line-height: 1px; font-size: 1pt; }
+#imTextObject_7 p { margin: 0; padding: 0; }
+#imTextObject_7 img { border: none; margin: 0px 0px; vertical-align: text-bottom;}
+#imTextObject_7 img.fleft { float: left; margin-right: 15px; vertical-align: baseline;}
+#imTextObject_7 img.fright { float: right; margin-left: 15px; vertical-align: baseline;}
+#imTextObject_7 .imUl { text-decoration: underline; }
+#imTextObject_7 .ff0 { font-family: "Tahoma"; }
+#imTextObject_7 .ff1 { font-family: "Ubuntu"; }
+#imTextObject_7 .cf1 { color: #000000; }
+#imTextObject_7 .cf2 { color: #FFFFFF; }
+#imTextObject_7 .cf3 { color: #000000; }
+#imTextObject_7 .fs20 { vertical-align: baseline; font-size: 10pt; line-height: 20px; }
+#imTextObject_7 .fs24 { vertical-align: baseline; font-size: 12pt; line-height: 23px;}
+#imTextObject_7 .cb1 { background-color: #000000; }
+#imTextObject_7 .cb2 { background-color: transparent; }
+#imTextObject_7 .cb3 { background-color: #000000; }
+#imCell_10 { display: block; position: relative; overflow: hidden; width: 470px; min-height: 29px; border-top: 3px solid transparent; border-bottom: 3px solid transparent; border-left: 3px solid transparent; border-right: 3px solid transparent;}
+#imCellStyle_10 { position: relative; width: 464px; min-height: 23px; padding: 3px 3px 3px 3px; text-align: center; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; z-index: 2;}
+#imCellStyleGraphics_10 { position: absolute; top: 0; bottom: 0; left: 0; right: 0; background-color: #FFBF00;}
+#imTextObject_10 { line-height: 1px; font-size: 1pt; font-style: normal; color: black; font-weight: normal; }
+#imTextObject_10 a { color: inherit; }
+#imTextObject_10 ul { list-style: disc; margin: 0px; padding: 0px; }
+#imTextObject_10 ul li { margin: 0px 0px 0px 15px; padding: 0px; font-size: 9pt; line-height: 19px;}
+#imTextObject_10 table { margin: 0 auto; padding: 0; border-collapse: collapse; border-spacing:0; line-height: inherit; }
+#imTextObject_10 table td { padding: 4px 3px 4px 3px; margin: 0px; line-height: 1px; font-size: 1pt; }
+#imTextObject_10 p { margin: 0; padding: 0; }
+#imTextObject_10 img { border: none; margin: 0px 0px; vertical-align: text-bottom;}
+#imTextObject_10 img.fleft { float: left; margin-right: 15px; vertical-align: baseline;}
+#imTextObject_10 img.fright { float: right; margin-left: 15px; vertical-align: baseline;}
+#imTextObject_10 .imUl { text-decoration: underline; }
+#imTextObject_10 .ff0 { font-family: "Tahoma"; }
+#imTextObject_10 .ff1 { font-family: "Ubuntu"; }
+#imTextObject_10 .cf1 { color: #000000; }
+#imTextObject_10 .cf2 { color: #FFFFFF; }
+#imTextObject_10 .cf3 { color: #000000; }
+#imTextObject_10 .fs20 { vertical-align: baseline; font-size: 10pt; line-height: 20px; }
+#imTextObject_10 .fs24 { vertical-align: baseline; font-size: 12pt; line-height: 23px;}
+#imTextObject_10 .cb1 { background-color: #000000; }
+#imTextObject_10 .cb2 { background-color: transparent; }
+#imTextObject_10 .cb3 { background-color: #000000; }
+#imCell_11 { display: block; position: relative; overflow: hidden; width: 232px; min-height: 205px; border-top: 3px solid transparent; border-bottom: 3px solid transparent; border-left: 3px solid transparent; border-right: 3px solid transparent;}
+#imCellStyle_11 { position: relative; width: 224px; min-height: 197px; padding: 3px 3px 3px 3px; text-align: center; border-top: 1px solid #E0E0E0; border-bottom: 1px solid #E0E0E0; border-left: 1px solid #E0E0E0; border-right: 1px solid #E0E0E0; z-index: 2;}
+#imCellStyleGraphics_11 { position: absolute; top: 0; bottom: 0; left: 0; right: 0; background-color: transparent;}
+#imCell_13 { display: block; position: relative; overflow: hidden; width: 470px; min-height: 29px; border-top: 3px solid transparent; border-bottom: 3px solid transparent; border-left: 3px solid transparent; border-right: 3px solid transparent;}
+#imCellStyle_13 { position: relative; width: 464px; min-height: 23px; padding: 3px 3px 3px 3px; text-align: center; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; z-index: 2;}
+#imCellStyleGraphics_13 { position: absolute; top: 0; bottom: 0; left: 0; right: 0; background-color: #FFBF00;}
+#imTextObject_13 { line-height: 1px; font-size: 1pt; font-style: normal; color: black; font-weight: normal; }
+#imTextObject_13 a { color: inherit; }
+#imTextObject_13 ul { list-style: disc; margin: 0px; padding: 0px; }
+#imTextObject_13 ul li { margin: 0px 0px 0px 15px; padding: 0px; font-size: 9pt; line-height: 19px;}
+#imTextObject_13 table { margin: 0 auto; padding: 0; border-collapse: collapse; border-spacing:0; line-height: inherit; }
+#imTextObject_13 table td { padding: 4px 3px 4px 3px; margin: 0px; line-height: 1px; font-size: 1pt; }
+#imTextObject_13 p { margin: 0; padding: 0; }
+#imTextObject_13 img { border: none; margin: 0px 0px; vertical-align: text-bottom;}
+#imTextObject_13 img.fleft { float: left; margin-right: 15px; vertical-align: baseline;}
+#imTextObject_13 img.fright { float: right; margin-left: 15px; vertical-align: baseline;}
+#imTextObject_13 .imUl { text-decoration: underline; }
+#imTextObject_13 .ff0 { font-family: "Tahoma"; }
+#imTextObject_13 .ff1 { font-family: "Ubuntu"; }
+#imTextObject_13 .cf1 { color: #000000; }
+#imTextObject_13 .cf2 { color: #FFFFFF; }
+#imTextObject_13 .cf3 { color: #000000; }
+#imTextObject_13 .fs20 { vertical-align: baseline; font-size: 10pt; line-height: 20px; }
+#imTextObject_13 .fs24 { vertical-align: baseline; font-size: 12pt; line-height: 23px;}
+#imTextObject_13 .cb1 { background-color: #000000; }
+#imTextObject_13 .cb2 { background-color: transparent; }
+#imTextObject_13 .cb3 { background-color: #000000; }
+#imCell_16 { display: block; position: relative; overflow: hidden; width: 232px; min-height: 205px; border-top: 3px solid transparent; border-bottom: 3px solid transparent; border-left: 3px solid transparent; border-right: 3px solid transparent;}
+#imCellStyle_16 { position: relative; width: 224px; min-height: 197px; padding: 3px 3px 3px 3px; text-align: center; border-top: 1px solid #E0E0E0; border-bottom: 1px solid #E0E0E0; border-left: 1px solid #E0E0E0; border-right: 1px solid #E0E0E0; z-index: 2;}
+#imCellStyleGraphics_16 { position: absolute; top: 0; bottom: 0; left: 0; right: 0; background-color: transparent;}
+#imCell_17 { display: block; position: relative; overflow: hidden; width: 232px; min-height: 205px; border-top: 3px solid transparent; border-bottom: 3px solid transparent; border-left: 3px solid transparent; border-right: 3px solid transparent;}
+#imCellStyle_17 { position: relative; width: 224px; min-height: 197px; padding: 3px 3px 3px 3px; text-align: center; border-top: 1px solid #E0E0E0; border-bottom: 1px solid #E0E0E0; border-left: 1px solid #E0E0E0; border-right: 1px solid #E0E0E0; z-index: 2;}
+#imCellStyleGraphics_17 { position: absolute; top: 0; bottom: 0; left: 0; right: 0; background-color: transparent;}
+#imCell_14 { display: block; position: relative; overflow: hidden; width: 470px; min-height: 29px; border-top: 3px solid transparent; border-bottom: 3px solid transparent; border-left: 3px solid transparent; border-right: 3px solid transparent;}
+#imCellStyle_14 { position: relative; width: 464px; min-height: 23px; padding: 3px 3px 3px 3px; text-align: center; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; z-index: 2;}
+#imCellStyleGraphics_14 { position: absolute; top: 0; bottom: 0; left: 0; right: 0; background-color: #809FFF;}
+#imTextObject_14 { line-height: 1px; font-size: 1pt; font-style: normal; color: black; font-weight: normal; }
+#imTextObject_14 a { color: inherit; }
+#imTextObject_14 ul { list-style: disc; margin: 0px; padding: 0px; }
+#imTextObject_14 ul li { margin: 0px 0px 0px 15px; padding: 0px; font-size: 9pt; line-height: 19px;}
+#imTextObject_14 table { margin: 0 auto; padding: 0; border-collapse: collapse; border-spacing:0; line-height: inherit; }
+#imTextObject_14 table td { padding: 4px 3px 4px 3px; margin: 0px; line-height: 1px; font-size: 1pt; }
+#imTextObject_14 p { margin: 0; padding: 0; }
+#imTextObject_14 img { border: none; margin: 0px 0px; vertical-align: text-bottom;}
+#imTextObject_14 img.fleft { float: left; margin-right: 15px; vertical-align: baseline;}
+#imTextObject_14 img.fright { float: right; margin-left: 15px; vertical-align: baseline;}
+#imTextObject_14 .imUl { text-decoration: underline; }
+#imTextObject_14 .ff0 { font-family: "Tahoma"; }
+#imTextObject_14 .ff1 { font-family: "Ubuntu"; }
+#imTextObject_14 .cf1 { color: #000000; }
+#imTextObject_14 .cf2 { color: #FFFFFF; }
+#imTextObject_14 .cf3 { color: #C0C0C0; }
+#imTextObject_14 .cf4 { color: #000000; }
+#imTextObject_14 .fs20 { vertical-align: baseline; font-size: 10pt; line-height: 20px; }
+#imTextObject_14 .fs24 { vertical-align: baseline; font-size: 12pt; line-height: 23px;}
+#imTextObject_14 .cb1 { background-color: #000000; }
+#imTextObject_14 .cb2 { background-color: transparent; }
+#imTextObject_14 .cb3 { background-color: #C0C0C0; }
+#imTextObject_14 .cb4 { background-color: #000000; }
+#imCell_18 { display: block; position: relative; overflow: hidden; width: 232px; min-height: 205px; border-top: 3px solid transparent; border-bottom: 3px solid transparent; border-left: 3px solid transparent; border-right: 3px solid transparent;}
+#imCellStyle_18 { position: relative; width: 224px; min-height: 197px; padding: 3px 3px 3px 3px; text-align: center; border-top: 1px solid #E0E0E0; border-bottom: 1px solid #E0E0E0; border-left: 1px solid #E0E0E0; border-right: 1px solid #E0E0E0; z-index: 2;}
+#imCellStyleGraphics_18 { position: absolute; top: 0; bottom: 0; left: 0; right: 0; background-color: transparent;}
+#imCell_20 { display: block; position: relative; overflow: hidden; width: 470px; min-height: 29px; border-top: 3px solid transparent; border-bottom: 3px solid transparent; border-left: 3px solid transparent; border-right: 3px solid transparent;}
+#imCellStyle_20 { position: relative; width: 464px; min-height: 23px; padding: 3px 3px 3px 3px; text-align: center; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; z-index: 2;}
+#imCellStyleGraphics_20 { position: absolute; top: 0; bottom: 0; left: 0; right: 0; background-color: #FFBF00;}
+#imTextObject_20 { line-height: 1px; font-size: 1pt; font-style: normal; color: black; font-weight: normal; }
+#imTextObject_20 a { color: inherit; }
+#imTextObject_20 ul { list-style: disc; margin: 0px; padding: 0px; }
+#imTextObject_20 ul li { margin: 0px 0px 0px 15px; padding: 0px; font-size: 9pt; line-height: 19px;}
+#imTextObject_20 table { margin: 0 auto; padding: 0; border-collapse: collapse; border-spacing:0; line-height: inherit; }
+#imTextObject_20 table td { padding: 4px 3px 4px 3px; margin: 0px; line-height: 1px; font-size: 1pt; }
+#imTextObject_20 p { margin: 0; padding: 0; }
+#imTextObject_20 img { border: none; margin: 0px 0px; vertical-align: text-bottom;}
+#imTextObject_20 img.fleft { float: left; margin-right: 15px; vertical-align: baseline;}
+#imTextObject_20 img.fright { float: right; margin-left: 15px; vertical-align: baseline;}
+#imTextObject_20 .imUl { text-decoration: underline; }
+#imTextObject_20 .ff0 { font-family: "Tahoma"; }
+#imTextObject_20 .ff1 { font-family: "Ubuntu"; }
+#imTextObject_20 .cf1 { color: #000000; }
+#imTextObject_20 .cf2 { color: #FFFFFF; }
+#imTextObject_20 .cf3 { color: #C0C0C0; }
+#imTextObject_20 .cf4 { color: #000000; }
+#imTextObject_20 .fs20 { vertical-align: baseline; font-size: 10pt; line-height: 20px; }
+#imTextObject_20 .fs24 { vertical-align: baseline; font-size: 12pt; line-height: 23px;}
+#imTextObject_20 .cb1 { background-color: #000000; }
+#imTextObject_20 .cb2 { background-color: transparent; }
+#imTextObject_20 .cb3 { background-color: #C0C0C0; }
+#imTextObject_20 .cb4 { background-color: #000000; }
+#imCell_21 { display: block; position: relative; overflow: hidden; width: 232px; min-height: 205px; border-top: 3px solid transparent; border-bottom: 3px solid transparent; border-left: 3px solid transparent; border-right: 3px solid transparent;}
+#imCellStyle_21 { position: relative; width: 224px; min-height: 197px; padding: 3px 3px 3px 3px; text-align: center; border-top: 1px solid #E0E0E0; border-bottom: 1px solid #E0E0E0; border-left: 1px solid #E0E0E0; border-right: 1px solid #E0E0E0; z-index: 2;}
+#imCellStyleGraphics_21 { position: absolute; top: 0; bottom: 0; left: 0; right: 0; background-color: transparent;}
+#imCell_23 { display: block; position: relative; overflow: hidden; width: 232px; min-height: 205px; border-top: 3px solid transparent; border-bottom: 3px solid transparent; border-left: 3px solid transparent; border-right: 3px solid transparent;}
+#imCellStyle_23 { position: relative; width: 224px; min-height: 197px; padding: 3px 3px 3px 3px; text-align: center; border-top: 1px solid #E0E0E0; border-bottom: 1px solid #E0E0E0; border-left: 1px solid #E0E0E0; border-right: 1px solid #E0E0E0; z-index: 2;}
+#imCellStyleGraphics_23 { position: absolute; top: 0; bottom: 0; left: 0; right: 0; background-color: transparent;}
+#imCell_24 { display: block; position: relative; overflow: hidden; width: 232px; min-height: 205px; border-top: 3px solid transparent; border-bottom: 3px solid transparent; border-left: 3px solid transparent; border-right: 3px solid transparent;}
+#imCellStyle_24 { position: relative; width: 224px; min-height: 197px; padding: 3px 3px 3px 3px; text-align: center; border-top: 1px solid #E0E0E0; border-bottom: 1px solid #E0E0E0; border-left: 1px solid #E0E0E0; border-right: 1px solid #E0E0E0; z-index: 2;}
+#imCellStyleGraphics_24 { position: absolute; top: 0; bottom: 0; left: 0; right: 0; background-color: transparent;}
+#imCell_26 { display: block; position: relative; overflow: hidden; width: 946px; min-height: 29px; border-top: 3px solid transparent; border-bottom: 3px solid transparent; border-left: 3px solid transparent; border-right: 3px solid transparent;}
+#imCellStyle_26 { position: relative; width: 940px; min-height: 23px; padding: 3px 3px 3px 3px; text-align: center; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; z-index: 2;}
+#imCellStyleGraphics_26 { position: absolute; top: 0; bottom: 0; left: 0; right: 0; background-color: #809FFF;}
+#imTextObject_26 { line-height: 1px; font-size: 1pt; font-style: normal; color: black; font-weight: normal; }
+#imTextObject_26 a { color: inherit; }
+#imTextObject_26 ul { list-style: disc; margin: 0px; padding: 0px; }
+#imTextObject_26 ul li { margin: 0px 0px 0px 15px; padding: 0px; font-size: 9pt; line-height: 19px;}
+#imTextObject_26 table { margin: 0 auto; padding: 0; border-collapse: collapse; border-spacing:0; line-height: inherit; }
+#imTextObject_26 table td { padding: 4px 3px 4px 3px; margin: 0px; line-height: 1px; font-size: 1pt; }
+#imTextObject_26 p { margin: 0; padding: 0; }
+#imTextObject_26 img { border: none; margin: 0px 0px; vertical-align: text-bottom;}
+#imTextObject_26 img.fleft { float: left; margin-right: 15px; vertical-align: baseline;}
+#imTextObject_26 img.fright { float: right; margin-left: 15px; vertical-align: baseline;}
+#imTextObject_26 .imUl { text-decoration: underline; }
+#imTextObject_26 .ff0 { font-family: "Tahoma"; }
+#imTextObject_26 .ff1 { font-family: "Ubuntu"; }
+#imTextObject_26 .ff2 { font-family: "Tahoma"; }
+#imTextObject_26 .cf1 { color: #000000; }
+#imTextObject_26 .cf2 { color: #FFFFFF; }
+#imTextObject_26 .cf3 { color: #808080; }
+#imTextObject_26 .cf4 { color: #C0C0C0; }
+#imTextObject_26 .cf5 { color: #000000; }
+#imTextObject_26 .fs20 { vertical-align: baseline; font-size: 10pt; line-height: 20px; }
+#imTextObject_26 .fs24 { vertical-align: baseline; font-size: 12pt; line-height: 23px;}
+#imTextObject_26 .cb1 { background-color: #000000; }
+#imTextObject_26 .cb2 { background-color: transparent; }
+#imTextObject_26 .cb3 { background-color: #808080; }
+#imTextObject_26 .cb4 { background-color: #C0C0C0; }
+#imTextObject_26 .cb5 { background-color: #000000; }
+#imCell_28 { display: block; position: relative; overflow: hidden; width: 470px; min-height: 248px; border-top: 3px solid transparent; border-bottom: 3px solid transparent; border-left: 3px solid transparent; border-right: 3px solid transparent;}
+#imCellStyle_28 { position: relative; width: 462px; min-height: 240px; padding: 3px 3px 3px 3px; text-align: center; border-top: 1px solid #E0E0E0; border-bottom: 1px solid #E0E0E0; border-left: 1px solid #E0E0E0; border-right: 1px solid #E0E0E0; z-index: 2;}
+#imCellStyleGraphics_28 { position: absolute; top: 0; bottom: 0; left: 0; right: 0; background-color: transparent;}
+#imObjectGallery_28 > div { margin: 0 auto; }
+#imContent #imObjectGallery_28 a:link, #imContent #imObjectGallery_28 a:hover, #imContent #imObjectGallery_28 a:visited, #imContent #imObjectGallery_28 a:active { border: none; background-color: transparent; text-decoration: none; }
+#imCell_30 { display: block; position: relative; overflow: hidden; width: 232px; min-height: 205px; border-top: 3px solid transparent; border-bottom: 3px solid transparent; border-left: 3px solid transparent; border-right: 3px solid transparent;}
+#imCellStyle_30 { position: relative; width: 224px; min-height: 197px; padding: 3px 3px 3px 3px; text-align: center; border-top: 1px solid #E0E0E0; border-bottom: 1px solid #E0E0E0; border-left: 1px solid #E0E0E0; border-right: 1px solid #E0E0E0; z-index: 2;}
+#imCellStyleGraphics_30 { position: absolute; top: 0; bottom: 0; left: 0; right: 0; background-color: transparent;}
+#imCell_31 { display: block; position: relative; overflow: hidden; width: 232px; min-height: 205px; border-top: 3px solid transparent; border-bottom: 3px solid transparent; border-left: 3px solid transparent; border-right: 3px solid transparent;}
+#imCellStyle_31 { position: relative; width: 224px; min-height: 197px; padding: 3px 3px 3px 3px; text-align: center; border-top: 1px solid #E0E0E0; border-bottom: 1px solid #E0E0E0; border-left: 1px solid #E0E0E0; border-right: 1px solid #E0E0E0; z-index: 2;}
+#imCellStyleGraphics_31 { position: absolute; top: 0; bottom: 0; left: 0; right: 0; background-color: transparent;}
+#imCell_32 { display: block; position: relative; overflow: hidden; width: 470px; min-height: 28px; border-top: 3px solid transparent; border-bottom: 3px solid transparent; border-left: 3px solid transparent; border-right: 3px solid transparent;}
+#imCellStyle_32 { position: relative; width: 462px; min-height: 20px; padding: 3px 3px 3px 3px; text-align: center; border-top: 1px solid #E0E0E0; border-bottom: 1px solid #E0E0E0; border-left: 1px solid #E0E0E0; border-right: 1px solid #E0E0E0; z-index: 2;}
+#imCellStyleGraphics_32 { position: absolute; top: 0; bottom: 0; left: 0; right: 0; background-color: #FFFFFF;}
+#imTextObject_32 { line-height: 1px; font-size: 1pt; font-style: normal; color: black; font-weight: normal; }
+#imTextObject_32 a { color: inherit; }
+#imTextObject_32 ul { list-style: disc; margin: 0px; padding: 0px; }
+#imTextObject_32 ul li { margin: 0px 0px 0px 15px; padding: 0px; font-size: 9pt; line-height: 19px;}
+#imTextObject_32 table { margin: 0 auto; padding: 0; border-collapse: collapse; border-spacing:0; line-height: inherit; }
+#imTextObject_32 table td { padding: 4px 3px 4px 3px; margin: 0px; line-height: 1px; font-size: 1pt; }
+#imTextObject_32 p { margin: 0; padding: 0; }
+#imTextObject_32 img { border: none; margin: 0px 0px; vertical-align: text-bottom;}
+#imTextObject_32 img.fleft { float: left; margin-right: 15px; vertical-align: baseline;}
+#imTextObject_32 img.fright { float: right; margin-left: 15px; vertical-align: baseline;}
+#imTextObject_32 .imUl { text-decoration: underline; }
+#imTextObject_32 .ff0 { font-family: "Tahoma"; }
+#imTextObject_32 .ff1 { font-family: "Ubuntu"; }
+#imTextObject_32 .cf1 { color: #000000; }
+#imTextObject_32 .cf2 { color: #FFFFFF; }
+#imTextObject_32 .cf3 { color: #C0C0C0; }
+#imTextObject_32 .cf4 { color: #808080; }
+#imTextObject_32 .cf5 { color: #000000; }
+#imTextObject_32 .fs20 { vertical-align: baseline; font-size: 10pt; line-height: 20px; }
+#imTextObject_32 .cb1 { background-color: #000000; }
+#imTextObject_32 .cb2 { background-color: transparent; }
+#imTextObject_32 .cb3 { background-color: #C0C0C0; }
+#imTextObject_32 .cb4 { background-color: #808080; }
+#imTextObject_32 .cb5 { background-color: #000000; }
+#imCell_2 { display: block; position: relative; overflow: hidden; width: 232px; min-height: 205px; border-top: 3px solid transparent; border-bottom: 3px solid transparent; border-left: 3px solid transparent; border-right: 3px solid transparent;}
+#imCellStyle_2 { position: relative; width: 224px; min-height: 197px; padding: 3px 3px 3px 3px; text-align: center; border-top: 1px solid #E0E0E0; border-bottom: 1px solid #E0E0E0; border-left: 1px solid #E0E0E0; border-right: 1px solid #E0E0E0; z-index: 2;}
+#imCellStyleGraphics_2 { position: absolute; top: 0; bottom: 0; left: 0; right: 0; background-color: transparent;}
+#imCell_33 { display: block; position: relative; overflow: hidden; width: 470px; min-height: 28px; border-top: 3px solid transparent; border-bottom: 3px solid transparent; border-left: 3px solid transparent; border-right: 3px solid transparent;}
+#imCellStyle_33 { position: relative; width: 462px; min-height: 20px; padding: 3px 3px 3px 3px; text-align: center; border-top: 1px solid #E0E0E0; border-bottom: 1px solid #E0E0E0; border-left: 1px solid #E0E0E0; border-right: 1px solid #E0E0E0; z-index: 2;}
+#imCellStyleGraphics_33 { position: absolute; top: 0; bottom: 0; left: 0; right: 0; background-color: #FFFFFF;}
+#imTextObject_33 { line-height: 1px; font-size: 1pt; font-style: normal; color: black; font-weight: normal; }
+#imTextObject_33 a { color: inherit; }
+#imTextObject_33 ul { list-style: disc; margin: 0px; padding: 0px; }
+#imTextObject_33 ul li { margin: 0px 0px 0px 15px; padding: 0px; font-size: 9pt; line-height: 19px;}
+#imTextObject_33 table { margin: 0 auto; padding: 0; border-collapse: collapse; border-spacing:0; line-height: inherit; }
+#imTextObject_33 table td { padding: 4px 3px 4px 3px; margin: 0px; line-height: 1px; font-size: 1pt; }
+#imTextObject_33 p { margin: 0; padding: 0; }
+#imTextObject_33 img { border: none; margin: 0px 0px; vertical-align: text-bottom;}
+#imTextObject_33 img.fleft { float: left; margin-right: 15px; vertical-align: baseline;}
+#imTextObject_33 img.fright { float: right; margin-left: 15px; vertical-align: baseline;}
+#imTextObject_33 .imUl { text-decoration: underline; }
+#imTextObject_33 .ff0 { font-family: "Tahoma"; }
+#imTextObject_33 .ff1 { font-family: "Ubuntu"; }
+#imTextObject_33 .cf1 { color: #000000; }
+#imTextObject_33 .cf2 { color: #FFFFFF; }
+#imTextObject_33 .cf3 { color: #808080; }
+#imTextObject_33 .cf4 { color: #000000; }
+#imTextObject_33 .fs20 { vertical-align: baseline; font-size: 10pt; line-height: 20px; }
+#imTextObject_33 .cb1 { background-color: #000000; }
+#imTextObject_33 .cb2 { background-color: transparent; }
+#imTextObject_33 .cb3 { background-color: #808080; }
+#imTextObject_33 .cb4 { background-color: #000000; }
+#imCell_25 { display: block; position: relative; overflow: hidden; width: 232px; min-height: 205px; border-top: 3px solid transparent; border-bottom: 3px solid transparent; border-left: 3px solid transparent; border-right: 3px solid transparent;}
+#imCellStyle_25 { position: relative; width: 224px; min-height: 197px; padding: 3px 3px 3px 3px; text-align: center; border-top: 1px solid #E0E0E0; border-bottom: 1px solid #E0E0E0; border-left: 1px solid #E0E0E0; border-right: 1px solid #E0E0E0; z-index: 2;}
+#imCellStyleGraphics_25 { position: absolute; top: 0; bottom: 0; left: 0; right: 0; background-color: transparent;}
+#imCell_34 { display: block; position: relative; overflow: hidden; width: 470px; min-height: 28px; border-top: 3px solid transparent; border-bottom: 3px solid transparent; border-left: 3px solid transparent; border-right: 3px solid transparent;}
+#imCellStyle_34 { position: relative; width: 462px; min-height: 20px; padding: 3px 3px 3px 3px; text-align: center; border-top: 1px solid #E0E0E0; border-bottom: 1px solid #E0E0E0; border-left: 1px solid #E0E0E0; border-right: 1px solid #E0E0E0; z-index: 2;}
+#imCellStyleGraphics_34 { position: absolute; top: 0; bottom: 0; left: 0; right: 0; background-color: #FFFFFF;}
+#imTextObject_34 { line-height: 1px; font-size: 1pt; font-style: normal; color: black; font-weight: normal; }
+#imTextObject_34 a { color: inherit; }
+#imTextObject_34 ul { list-style: disc; margin: 0px; padding: 0px; }
+#imTextObject_34 ul li { margin: 0px 0px 0px 15px; padding: 0px; font-size: 9pt; line-height: 19px;}
+#imTextObject_34 table { margin: 0 auto; padding: 0; border-collapse: collapse; border-spacing:0; line-height: inherit; }
+#imTextObject_34 table td { padding: 4px 3px 4px 3px; margin: 0px; line-height: 1px; font-size: 1pt; }
+#imTextObject_34 p { margin: 0; padding: 0; }
+#imTextObject_34 img { border: none; margin: 0px 0px; vertical-align: text-bottom;}
+#imTextObject_34 img.fleft { float: left; margin-right: 15px; vertical-align: baseline;}
+#imTextObject_34 img.fright { float: right; margin-left: 15px; vertical-align: baseline;}
+#imTextObject_34 .imUl { text-decoration: underline; }
+#imTextObject_34 .ff0 { font-family: "Tahoma"; }
+#imTextObject_34 .ff1 { font-family: "Ubuntu"; }
+#imTextObject_34 .ff2 { font-family: "Tahoma"; }
+#imTextObject_34 .cf1 { color: #000000; }
+#imTextObject_34 .cf2 { color: #FFFFFF; }
+#imTextObject_34 .cf3 { color: #808080; }
+#imTextObject_34 .cf4 { color: #000000; }
+#imTextObject_34 .fs20 { vertical-align: baseline; font-size: 10pt; line-height: 20px; }
+#imTextObject_34 .cb1 { background-color: #000000; }
+#imTextObject_34 .cb2 { background-color: transparent; }
+#imTextObject_34 .cb3 { background-color: #808080; }
+#imTextObject_34 .cb4 { background-color: #000000; }
+#imCell_35 { display: block; position: relative; overflow: hidden; width: 470px; min-height: 28px; border-top: 3px solid transparent; border-bottom: 3px solid transparent; border-left: 3px solid transparent; border-right: 3px solid transparent;}
+#imCellStyle_35 { position: relative; width: 462px; min-height: 20px; padding: 3px 3px 3px 3px; text-align: center; border-top: 1px solid #E0E0E0; border-bottom: 1px solid #E0E0E0; border-left: 1px solid #E0E0E0; border-right: 1px solid #E0E0E0; z-index: 2;}
+#imCellStyleGraphics_35 { position: absolute; top: 0; bottom: 0; left: 0; right: 0; background-color: #FFFFFF;}
+#imTextObject_35 { line-height: 1px; font-size: 1pt; font-style: normal; color: black; font-weight: normal; }
+#imTextObject_35 a { color: inherit; }
+#imTextObject_35 ul { list-style: disc; margin: 0px; padding: 0px; }
+#imTextObject_35 ul li { margin: 0px 0px 0px 15px; padding: 0px; font-size: 9pt; line-height: 19px;}
+#imTextObject_35 table { margin: 0 auto; padding: 0; border-collapse: collapse; border-spacing:0; line-height: inherit; }
+#imTextObject_35 table td { padding: 4px 3px 4px 3px; margin: 0px; line-height: 1px; font-size: 1pt; }
+#imTextObject_35 p { margin: 0; padding: 0; }
+#imTextObject_35 img { border: none; margin: 0px 0px; vertical-align: text-bottom;}
+#imTextObject_35 img.fleft { float: left; margin-right: 15px; vertical-align: baseline;}
+#imTextObject_35 img.fright { float: right; margin-left: 15px; vertical-align: baseline;}
+#imTextObject_35 .imUl { text-decoration: underline; }
+#imTextObject_35 .ff0 { font-family: "Tahoma"; }
+#imTextObject_35 .ff1 { font-family: "Ubuntu"; }
+#imTextObject_35 .ff2 { font-family: "Tahoma"; }
+#imTextObject_35 .cf1 { color: #000000; }
+#imTextObject_35 .cf2 { color: #FFFFFF; }
+#imTextObject_35 .cf3 { color: #808080; }
+#imTextObject_35 .cf4 { color: #000000; }
+#imTextObject_35 .fs20 { vertical-align: baseline; font-size: 10pt; line-height: 20px; }
+#imTextObject_35 .cb1 { background-color: #000000; }
+#imTextObject_35 .cb2 { background-color: transparent; }
+#imTextObject_35 .cb3 { background-color: #808080; }
+#imTextObject_35 .cb4 { background-color: #000000; }
+#imCell_22 { display: block; position: relative; overflow: hidden; width: 232px; min-height: 205px; border-top: 3px solid transparent; border-bottom: 3px solid transparent; border-left: 3px solid transparent; border-right: 3px solid transparent;}
+#imCellStyle_22 { position: relative; width: 224px; min-height: 197px; padding: 3px 3px 3px 3px; text-align: center; border-top: 1px solid #E0E0E0; border-bottom: 1px solid #E0E0E0; border-left: 1px solid #E0E0E0; border-right: 1px solid #E0E0E0; z-index: 2;}
+#imCellStyleGraphics_22 { position: absolute; top: 0; bottom: 0; left: 0; right: 0; background-color: transparent;}
+#imCell_19 { display: block; position: relative; overflow: hidden; width: 470px; min-height: 29px; border-top: 3px solid transparent; border-bottom: 3px solid transparent; border-left: 3px solid transparent; border-right: 3px solid transparent;}
+#imCellStyle_19 { position: relative; width: 464px; min-height: 23px; padding: 3px 3px 3px 3px; text-align: center; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; z-index: 2;}
+#imCellStyleGraphics_19 { position: absolute; top: 0; bottom: 0; left: 0; right: 0; background-color: #809FFF;}
+#imTextObject_19 { line-height: 1px; font-size: 1pt; font-style: normal; color: black; font-weight: normal; }
+#imTextObject_19 a { color: inherit; }
+#imTextObject_19 ul { list-style: disc; margin: 0px; padding: 0px; }
+#imTextObject_19 ul li { margin: 0px 0px 0px 15px; padding: 0px; font-size: 9pt; line-height: 19px;}
+#imTextObject_19 table { margin: 0 auto; padding: 0; border-collapse: collapse; border-spacing:0; line-height: inherit; }
+#imTextObject_19 table td { padding: 4px 3px 4px 3px; margin: 0px; line-height: 1px; font-size: 1pt; }
+#imTextObject_19 p { margin: 0; padding: 0; }
+#imTextObject_19 img { border: none; margin: 0px 0px; vertical-align: text-bottom;}
+#imTextObject_19 img.fleft { float: left; margin-right: 15px; vertical-align: baseline;}
+#imTextObject_19 img.fright { float: right; margin-left: 15px; vertical-align: baseline;}
+#imTextObject_19 .imUl { text-decoration: underline; }
+#imTextObject_19 .ff0 { font-family: "Tahoma"; }
+#imTextObject_19 .ff1 { font-family: "Ubuntu"; }
+#imTextObject_19 .ff2 { font-family: "Tahoma"; }
+#imTextObject_19 .cf1 { color: #000000; }
+#imTextObject_19 .cf2 { color: #FFFFFF; }
+#imTextObject_19 .cf3 { color: #808080; }
+#imTextObject_19 .cf4 { color: #000000; }
+#imTextObject_19 .fs20 { vertical-align: baseline; font-size: 10pt; line-height: 20px; }
+#imTextObject_19 .fs24 { vertical-align: baseline; font-size: 12pt; line-height: 23px;}
+#imTextObject_19 .cb1 { background-color: #000000; }
+#imTextObject_19 .cb2 { background-color: transparent; }
+#imTextObject_19 .cb3 { background-color: #808080; }
+#imTextObject_19 .cb4 { background-color: #000000; }
+#imCell_36 { display: block; position: relative; overflow: hidden; width: 470px; min-height: 48px; border-top: 3px solid transparent; border-bottom: 3px solid transparent; border-left: 3px solid transparent; border-right: 3px solid transparent;}
+#imCellStyle_36 { position: relative; width: 462px; min-height: 40px; padding: 3px 3px 3px 3px; text-align: center; border-top: 1px solid #E0E0E0; border-bottom: 1px solid #E0E0E0; border-left: 1px solid #E0E0E0; border-right: 1px solid #E0E0E0; z-index: 2;}
+#imCellStyleGraphics_36 { position: absolute; top: 0; bottom: 0; left: 0; right: 0; background-color: #FFFFFF;}
+#imTextObject_36 { line-height: 1px; font-size: 1pt; font-style: normal; color: black; font-weight: normal; }
+#imTextObject_36 a { color: inherit; }
+#imTextObject_36 ul { list-style: disc; margin: 0px; padding: 0px; }
+#imTextObject_36 ul li { margin: 0px 0px 0px 15px; padding: 0px; font-size: 9pt; line-height: 19px;}
+#imTextObject_36 table { margin: 0 auto; padding: 0; border-collapse: collapse; border-spacing:0; line-height: inherit; }
+#imTextObject_36 table td { padding: 4px 3px 4px 3px; margin: 0px; line-height: 1px; font-size: 1pt; }
+#imTextObject_36 p { margin: 0; padding: 0; }
+#imTextObject_36 img { border: none; margin: 0px 0px; vertical-align: text-bottom;}
+#imTextObject_36 img.fleft { float: left; margin-right: 15px; vertical-align: baseline;}
+#imTextObject_36 img.fright { float: right; margin-left: 15px; vertical-align: baseline;}
+#imTextObject_36 .imUl { text-decoration: underline; }
+#imTextObject_36 .ff0 { font-family: "Tahoma"; }
+#imTextObject_36 .ff1 { font-family: "Ubuntu"; }
+#imTextObject_36 .cf1 { color: #000000; }
+#imTextObject_36 .cf2 { color: #FFFFFF; }
+#imTextObject_36 .cf3 { color: #808080; }
+#imTextObject_36 .cf4 { color: #000000; }
+#imTextObject_36 .fs20 { vertical-align: baseline; font-size: 10pt; line-height: 20px; }
+#imTextObject_36 .cb1 { background-color: #000000; }
+#imTextObject_36 .cb2 { background-color: transparent; }
+#imTextObject_36 .cb3 { background-color: #808080; }
+#imTextObject_36 .cb4 { background-color: #000000; }
+#imCell_37 { display: block; position: relative; overflow: hidden; width: 470px; min-height: 48px; border-top: 3px solid transparent; border-bottom: 3px solid transparent; border-left: 3px solid transparent; border-right: 3px solid transparent;}
+#imCellStyle_37 { position: relative; width: 462px; min-height: 40px; padding: 3px 3px 3px 3px; text-align: center; border-top: 1px solid #E0E0E0; border-bottom: 1px solid #E0E0E0; border-left: 1px solid #E0E0E0; border-right: 1px solid #E0E0E0; z-index: 2;}
+#imCellStyleGraphics_37 { position: absolute; top: 0; bottom: 0; left: 0; right: 0; background-color: #FFFFFF;}
+#imTextObject_37 { line-height: 1px; font-size: 1pt; font-style: normal; color: black; font-weight: normal; }
+#imTextObject_37 a { color: inherit; }
+#imTextObject_37 ul { list-style: disc; margin: 0px; padding: 0px; }
+#imTextObject_37 ul li { margin: 0px 0px 0px 15px; padding: 0px; font-size: 9pt; line-height: 19px;}
+#imTextObject_37 table { margin: 0 auto; padding: 0; border-collapse: collapse; border-spacing:0; line-height: inherit; }
+#imTextObject_37 table td { padding: 4px 3px 4px 3px; margin: 0px; line-height: 1px; font-size: 1pt; }
+#imTextObject_37 p { margin: 0; padding: 0; }
+#imTextObject_37 img { border: none; margin: 0px 0px; vertical-align: text-bottom;}
+#imTextObject_37 img.fleft { float: left; margin-right: 15px; vertical-align: baseline;}
+#imTextObject_37 img.fright { float: right; margin-left: 15px; vertical-align: baseline;}
+#imTextObject_37 .imUl { text-decoration: underline; }
+#imTextObject_37 .ff0 { font-family: "Tahoma"; }
+#imTextObject_37 .ff1 { font-family: "Ubuntu"; }
+#imTextObject_37 .cf1 { color: #000000; }
+#imTextObject_37 .cf2 { color: #FFFFFF; }
+#imTextObject_37 .cf3 { color: #808080; }
+#imTextObject_37 .cf4 { color: #000000; }
+#imTextObject_37 .fs20 { vertical-align: baseline; font-size: 10pt; line-height: 20px; }
+#imTextObject_37 .cb1 { background-color: #000000; }
+#imTextObject_37 .cb2 { background-color: transparent; }
+#imTextObject_37 .cb3 { background-color: #808080; }
+#imTextObject_37 .cb4 { background-color: #000000; }
+#imCell_12 { display: block; position: relative; overflow: hidden; width: 232px; min-height: 205px; border-top: 3px solid transparent; border-bottom: 3px solid transparent; border-left: 3px solid transparent; border-right: 3px solid transparent;}
+#imCellStyle_12 { position: relative; width: 224px; min-height: 197px; padding: 3px 3px 3px 3px; text-align: center; border-top: 1px solid #E0E0E0; border-bottom: 1px solid #E0E0E0; border-left: 1px solid #E0E0E0; border-right: 1px solid #E0E0E0; z-index: 2;}
+#imCellStyleGraphics_12 { position: absolute; top: 0; bottom: 0; left: 0; right: 0; background-color: transparent;}
+#imCell_15 { display: block; position: relative; overflow: hidden; width: 232px; min-height: 205px; border-top: 3px solid transparent; border-bottom: 3px solid transparent; border-left: 3px solid transparent; border-right: 3px solid transparent;}
+#imCellStyle_15 { position: relative; width: 224px; min-height: 197px; padding: 3px 3px 3px 3px; text-align: center; border-top: 1px solid #E0E0E0; border-bottom: 1px solid #E0E0E0; border-left: 1px solid #E0E0E0; border-right: 1px solid #E0E0E0; z-index: 2;}
+#imCellStyleGraphics_15 { position: absolute; top: 0; bottom: 0; left: 0; right: 0; background-color: transparent;}
+#imCell_38 { display: block; position: relative; overflow: hidden; width: 470px; min-height: 48px; border-top: 3px solid transparent; border-bottom: 3px solid transparent; border-left: 3px solid transparent; border-right: 3px solid transparent;}
+#imCellStyle_38 { position: relative; width: 462px; min-height: 20px; padding: 3px 3px 23px 3px; text-align: center; border-top: 1px solid #E0E0E0; border-bottom: 1px solid #E0E0E0; border-left: 1px solid #E0E0E0; border-right: 1px solid #E0E0E0; z-index: 2;}
+#imCellStyleGraphics_38 { position: absolute; top: 0; bottom: 0; left: 0; right: 0; background-color: #FFFFFF;}
+#imTextObject_38 { line-height: 1px; font-size: 1pt; font-style: normal; color: black; font-weight: normal; }
+#imTextObject_38 a { color: inherit; }
+#imTextObject_38 ul { list-style: disc; margin: 0px; padding: 0px; }
+#imTextObject_38 ul li { margin: 0px 0px 0px 15px; padding: 0px; font-size: 9pt; line-height: 19px;}
+#imTextObject_38 table { margin: 0 auto; padding: 0; border-collapse: collapse; border-spacing:0; line-height: inherit; }
+#imTextObject_38 table td { padding: 4px 3px 4px 3px; margin: 0px; line-height: 1px; font-size: 1pt; }
+#imTextObject_38 p { margin: 0; padding: 0; }
+#imTextObject_38 img { border: none; margin: 0px 0px; vertical-align: text-bottom;}
+#imTextObject_38 img.fleft { float: left; margin-right: 15px; vertical-align: baseline;}
+#imTextObject_38 img.fright { float: right; margin-left: 15px; vertical-align: baseline;}
+#imTextObject_38 .imUl { text-decoration: underline; }
+#imTextObject_38 .ff0 { font-family: "Tahoma"; }
+#imTextObject_38 .ff1 { font-family: "Ubuntu"; }
+#imTextObject_38 .cf1 { color: #000000; }
+#imTextObject_38 .cf2 { color: #FFFFFF; }
+#imTextObject_38 .cf3 { color: #808080; }
+#imTextObject_38 .cf4 { color: #000000; }
+#imTextObject_38 .fs20 { vertical-align: baseline; font-size: 10pt; line-height: 20px; }
+#imTextObject_38 .cb1 { background-color: #000000; }
+#imTextObject_38 .cb2 { background-color: transparent; }
+#imTextObject_38 .cb3 { background-color: #808080; }
+#imTextObject_38 .cb4 { background-color: #000000; }
+#imCell_39 { display: block; position: relative; overflow: hidden; width: 470px; min-height: 48px; border-top: 3px solid transparent; border-bottom: 3px solid transparent; border-left: 3px solid transparent; border-right: 3px solid transparent;}
+#imCellStyle_39 { position: relative; width: 462px; min-height: 40px; padding: 3px 3px 3px 3px; text-align: center; border-top: 1px solid #E0E0E0; border-bottom: 1px solid #E0E0E0; border-left: 1px solid #E0E0E0; border-right: 1px solid #E0E0E0; z-index: 2;}
+#imCellStyleGraphics_39 { position: absolute; top: 0; bottom: 0; left: 0; right: 0; background-color: #FFFFFF;}
+#imTextObject_39 { line-height: 1px; font-size: 1pt; font-style: normal; color: black; font-weight: normal; }
+#imTextObject_39 a { color: inherit; }
+#imTextObject_39 ul { list-style: disc; margin: 0px; padding: 0px; }
+#imTextObject_39 ul li { margin: 0px 0px 0px 15px; padding: 0px; font-size: 9pt; line-height: 19px;}
+#imTextObject_39 table { margin: 0 auto; padding: 0; border-collapse: collapse; border-spacing:0; line-height: inherit; }
+#imTextObject_39 table td { padding: 4px 3px 4px 3px; margin: 0px; line-height: 1px; font-size: 1pt; }
+#imTextObject_39 p { margin: 0; padding: 0; }
+#imTextObject_39 img { border: none; margin: 0px 0px; vertical-align: text-bottom;}
+#imTextObject_39 img.fleft { float: left; margin-right: 15px; vertical-align: baseline;}
+#imTextObject_39 img.fright { float: right; margin-left: 15px; vertical-align: baseline;}
+#imTextObject_39 .imUl { text-decoration: underline; }
+#imTextObject_39 .ff0 { font-family: "Tahoma"; }
+#imTextObject_39 .ff1 { font-family: "Ubuntu"; }
+#imTextObject_39 .ff2 { font-family: "Tahoma"; }
+#imTextObject_39 .cf1 { color: #000000; }
+#imTextObject_39 .cf2 { color: #FFFFFF; }
+#imTextObject_39 .cf3 { color: #808080; }
+#imTextObject_39 .cf4 { color: #000000; }
+#imTextObject_39 .fs20 { vertical-align: baseline; font-size: 10pt; line-height: 20px; }
+#imTextObject_39 .cb1 { background-color: #000000; }
+#imTextObject_39 .cb2 { background-color: transparent; }
+#imTextObject_39 .cb3 { background-color: #808080; }
+#imTextObject_39 .cb4 { background-color: #000000; }
+#imCell_27 { display: block; position: relative; overflow: hidden; width: 470px; min-height: 248px; border-top: 3px solid transparent; border-bottom: 3px solid transparent; border-left: 3px solid transparent; border-right: 3px solid transparent;}
+#imCellStyle_27 { position: relative; width: 462px; min-height: 228px; padding: 3px 3px 15px 3px; text-align: center; border-top: 1px solid #E0E0E0; border-bottom: 1px solid #E0E0E0; border-left: 1px solid #E0E0E0; border-right: 1px solid #E0E0E0; z-index: 2;}
+#imCellStyleGraphics_27 { position: absolute; top: 0; bottom: 0; left: 0; right: 0; background-color: transparent;}
+#imTextObject_27 { line-height: 1px; font-size: 1pt; font-style: normal; color: black; font-weight: normal; }
+#imTextObject_27 a { color: inherit; }
+#imTextObject_27 ul { list-style: disc; margin: 0px; padding: 0px; }
+#imTextObject_27 ul li { margin: 0px 0px 0px 15px; padding: 0px; font-size: 9pt; line-height: 19px;}
+#imTextObject_27 table { margin: 0 auto; padding: 0; border-collapse: collapse; border-spacing:0; line-height: inherit; }
+#imTextObject_27 table td { padding: 4px 3px 4px 3px; margin: 0px; line-height: 1px; font-size: 1pt; }
+#imTextObject_27 p { margin: 0; padding: 0; }
+#imTextObject_27 img { border: none; margin: 0px 0px; vertical-align: text-bottom;}
+#imTextObject_27 img.fleft { float: left; margin-right: 15px; vertical-align: baseline;}
+#imTextObject_27 img.fright { float: right; margin-left: 15px; vertical-align: baseline;}
+#imTextObject_27 .imUl { text-decoration: underline; }
+#imTextObject_27 .ff0 { font-family: "Tahoma"; }
+#imTextObject_27 .ff1 { font-family: "Ubuntu"; }
+#imTextObject_27 .ff2 { font-family: "Ubuntu Light"; }
+#imTextObject_27 .ff3 { font-family: "Tahoma"; }
+#imTextObject_27 .ff4 { font-family: "Courier New"; }
+#imTextObject_27 .ff5 { font-family: "Arial"; }
+#imTextObject_27 .cf1 { color: #000000; }
+#imTextObject_27 .cf2 { color: #FFFFFF; }
+#imTextObject_27 .cf3 { color: #808080; }
+#imTextObject_27 .cf4 { color: #0000FF; }
+#imTextObject_27 .cf5 { color: #800080; }
+#imTextObject_27 .cf6 { color: #FF0000; }
+#imTextObject_27 .cf7 { color: #000000; }
+#imTextObject_27 .fs20 { vertical-align: baseline; font-size: 10pt; line-height: 20px; }
+#imTextObject_27 .fs24 { vertical-align: baseline; font-size: 12pt; line-height: 23px;}
+#imTextObject_27 .cb1 { background-color: #000000; }
+#imTextObject_27 .cb2 { background-color: transparent; }
+#imTextObject_27 .cb3 { background-color: #808080; }
+#imTextObject_27 .cb4 { background-color: #0000FF; }
+#imTextObject_27 .cb5 { background-color: #800080; }
+#imTextObject_27 .cb6 { background-color: #FF0000; }
+#imTextObject_27 .cb7 { background-color: #000000; }

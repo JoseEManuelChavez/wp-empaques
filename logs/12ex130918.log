@@ -1,0 +1,22 @@
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-09-18 12:39:58
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-bytes cs-bytes 
+2013-09-18 12:39:58 W3SVC669312 GET /carton.html - - 180.76.5.64 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - empestol.com.mx 304 229 317
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-09-18 21:25:15
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-bytes cs-bytes 
+2013-09-18 21:25:14 W3SVC669312 GET /index.html - - 180.76.5.86 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - www.empestol.com.mx 200 2697 221
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-09-19 02:36:43
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-bytes cs-bytes 
+2013-09-19 02:36:43 W3SVC669312 GET /robots.txt - - 157.55.32.223 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - empestol.com.mx 404 4173 267
+2013-09-19 02:37:15 W3SVC669312 GET /index.html - - 157.55.32.223 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - empestol.com.mx 304 264 360
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-09-19 04:00:43
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-bytes cs-bytes 
+2013-09-19 04:00:42 W3SVC669312 GET /robots.txt - - 157.55.35.101 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - www.empestol.com.mx 404 4173 271
+2013-09-19 04:04:19 W3SVC669312 GET /peliculas.html - - 157.55.35.101 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - www.empestol.com.mx 304 211 378

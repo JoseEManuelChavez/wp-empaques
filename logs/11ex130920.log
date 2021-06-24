@@ -1,0 +1,153 @@
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-09-20 06:03:52
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-bytes cs-bytes 
+2013-09-20 06:03:52 W3SVC669312 GET /robots.txt - - 157.55.32.100 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - empestol.com.mx 404 4173 267
+2013-09-20 06:05:44 W3SVC669312 GET /index.html - - 157.55.32.100 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - empestol.com.mx 200 2674 270
+2013-09-20 06:06:23 W3SVC669312 GET /pcss/index.css - - 157.55.32.100 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - empestol.com.mx 200 2316 252
+2013-09-20 06:06:25 W3SVC669312 GET /style/print.css - - 157.55.32.100 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - empestol.com.mx 200 479 253
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-09-20 06:36:00
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-bytes cs-bytes 
+2013-09-20 06:35:59 W3SVC669312 GET /robots.txt - - 66.249.73.109 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - www.empestol.com.mx 404 4173 269
+2013-09-20 06:36:00 W3SVC669312 GET /index.html - - 66.249.73.109 HTTP/1.1 Mozilla/5.0+(iPhone;+U;+CPU+iPhone+OS+4_1+like+Mac+OS+X;+en-us)+AppleWebKit/532.9+(KHTML,+like+Gecko)+Version/4.0.5+Mobile/8B117+Safari/6531.22.7+(compatible;+Googlebot-Mobile/2.1;++http://www.google.com/bot.html) - www.empestol.com.mx 200 2678 374
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-09-20 07:07:13
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-bytes cs-bytes 
+2013-09-20 07:07:13 W3SVC669312 GET /style/reset.css - - 199.30.25.69 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b http://empestol.com.mx/ empestol.com.mx 200 1394 253
+2013-09-20 07:07:13 W3SVC669312 GET /style/template.css - - 199.30.25.69 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b http://empestol.com.mx/ empestol.com.mx 200 1242 256
+2013-09-20 07:07:13 W3SVC669312 GET /style/style.css - - 199.30.25.69 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b http://empestol.com.mx/ empestol.com.mx 200 11995 253
+2013-09-20 07:07:13 W3SVC669312 GET /res/swfobject.js - - 199.30.25.69 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b http://empestol.com.mx/ empestol.com.mx 200 26504 239
+2013-09-20 07:07:18 W3SVC669312 GET /res/jquery.js 1972 - 199.30.25.69 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b http://empestol.com.mx/ empestol.com.mx 200 95083 241
+2013-09-20 07:07:18 W3SVC669312 GET /res/x5cartengine.js 1972 - 199.30.25.69 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b http://empestol.com.mx/ empestol.com.mx 200 60578 247
+2013-09-20 07:07:18 W3SVC669312 GET /res/l10n.js 1972_635015489517261194 - 199.30.25.69 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b http://empestol.com.mx/ empestol.com.mx 200 15718 258
+2013-09-20 07:07:19 W3SVC669312 GET /res/x5engine.js 1972 - 199.30.25.69 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b http://empestol.com.mx/ empestol.com.mx 200 143980 243
+2013-09-20 07:07:20 W3SVC669312 GET /res/x5settings.js 1972_635015489517261194 - 199.30.25.69 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b http://empestol.com.mx/ empestol.com.mx 200 1913 264
+2013-09-20 07:07:28 W3SVC669312 GET /menu/index_h.png - - 199.30.25.69 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b http://empestol.com.mx/ empestol.com.mx 200 508 239
+2013-09-20 07:07:28 W3SVC669312 GET /menu/nosotros.png - - 199.30.25.69 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b http://empestol.com.mx/ empestol.com.mx 200 537 240
+2013-09-20 07:07:28 W3SVC669312 GET /menu/flejes.png - - 199.30.25.69 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b http://empestol.com.mx/ empestol.com.mx 200 512 238
+2013-09-20 07:07:32 W3SVC669312 GET /menu/peliculas.png - - 199.30.25.69 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b http://empestol.com.mx/ empestol.com.mx 200 543 241
+2013-09-20 07:07:32 W3SVC669312 GET /menu/cintas.png - - 199.30.25.69 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b http://empestol.com.mx/ empestol.com.mx 200 506 238
+2013-09-20 07:07:32 W3SVC669312 GET /menu/carton.png - - 199.30.25.69 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b http://empestol.com.mx/ empestol.com.mx 200 515 238
+2013-09-20 07:07:35 W3SVC669312 GET /menu/empaque.png - - 199.30.25.69 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b http://empestol.com.mx/ empestol.com.mx 200 532 239
+2013-09-20 07:07:35 W3SVC669312 GET /menu/contacto.png - - 199.30.25.69 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b http://empestol.com.mx/ empestol.com.mx 200 534 240
+2013-09-20 07:07:36 W3SVC669312 GET /style/bottom.png - - 199.30.25.69 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b http://empestol.com.mx/ empestol.com.mx 200 1537 239
+2013-09-20 07:07:36 W3SVC669312 GET /menu/flejes_h.png - - 199.30.25.69 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b http://empestol.com.mx/ empestol.com.mx 200 570 240
+2013-09-20 07:07:36 W3SVC669312 GET /menu/nosotros_h.png - - 199.30.25.69 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b http://empestol.com.mx/ empestol.com.mx 200 611 242
+2013-09-20 07:07:39 W3SVC669312 GET /style/top.png - - 199.30.25.69 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b http://empestol.com.mx/ empestol.com.mx 200 334018 236
+2013-09-20 07:07:39 W3SVC669312 GET /menu/cintas_h.png - - 199.30.25.69 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b http://empestol.com.mx/ empestol.com.mx 200 550 240
+2013-09-20 07:07:39 W3SVC669312 GET /menu/empaque_h.png - - 199.30.25.69 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b http://empestol.com.mx/ empestol.com.mx 200 587 241
+2013-09-20 07:07:39 W3SVC669312 GET /menu/carton_h.png - - 199.30.25.69 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b http://empestol.com.mx/ empestol.com.mx 200 576 240
+2013-09-20 07:07:42 W3SVC669312 GET /menu/contacto_h.png - - 199.30.25.69 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b http://empestol.com.mx/ empestol.com.mx 200 593 242
+2013-09-20 07:07:47 W3SVC669312 GET /menu/peliculas_h.png - - 199.30.25.69 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b http://empestol.com.mx/ empestol.com.mx 200 604 243
+2013-09-20 07:07:47 W3SVC669312 GET /res/imLoad.gif - - 199.30.25.69 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b http://empestol.com.mx/ empestol.com.mx 200 3433 237
+2013-09-20 07:07:48 W3SVC669312 GET /res/imClose.png - - 199.30.25.69 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b http://empestol.com.mx/ empestol.com.mx 200 4396 238
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-09-20 11:40:37
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-bytes cs-bytes 
+2013-09-20 11:40:36 W3SVC669312 GET /flejes.html - - 66.249.73.109 HTTP/1.1 Mozilla/5.0+(iPhone;+U;+CPU+iPhone+OS+4_1+like+Mac+OS+X;+en-us)+AppleWebKit/532.9+(KHTML,+like+Gecko)+Version/4.0.5+Mobile/8B117+Safari/6531.22.7+(compatible;+Googlebot-Mobile/2.1;++http://www.google.com/bot.html) - www.empestol.com.mx 200 4504 385
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-09-20 18:01:36
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-bytes cs-bytes 
+2013-09-20 18:01:36 W3SVC669312 GET /flejes.html - - 131.253.24.128 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.2;++SLCC1;++.NET+CLR+1.1.4322;++.NET+CLR+2.0.40607;++.NET+CLR+3.0.30729;++.NET+CLR+3.5.30707) - empestol.com.mx 200 4504 313
+2013-09-20 18:01:39 W3SVC669312 GET /style/reset.css - - 131.253.24.128 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.2;++SLCC1;++.NET+CLR+1.1.4322;++.NET+CLR+2.0.40607;++.NET+CLR+3.0.30729;++.NET+CLR+3.5.30707) http://empestol.com.mx/flejes.html empestol.com.mx 200 1394 387
+2013-09-20 18:01:44 W3SVC669312 GET /style/style.css - - 131.253.24.128 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.2;++SLCC1;++.NET+CLR+1.1.4322;++.NET+CLR+2.0.40607;++.NET+CLR+3.0.30729;++.NET+CLR+3.5.30707) http://empestol.com.mx/flejes.html empestol.com.mx 200 11995 387
+2013-09-20 18:01:46 W3SVC669312 GET /style/menu.css - - 131.253.24.128 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.2;++SLCC1;++.NET+CLR+1.1.4322;++.NET+CLR+2.0.40607;++.NET+CLR+3.0.30729;++.NET+CLR+3.5.30707) http://empestol.com.mx/flejes.html empestol.com.mx 200 6104 386
+2013-09-20 18:01:47 W3SVC669312 GET /res/swfobject.js - - 131.253.24.128 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.2;++SLCC1;++.NET+CLR+1.1.4322;++.NET+CLR+2.0.40607;++.NET+CLR+3.0.30729;++.NET+CLR+3.5.30707) http://empestol.com.mx/flejes.html empestol.com.mx 200 26504 388
+2013-09-20 18:01:51 W3SVC669312 GET /res/jquery.js 1972 - 131.253.24.128 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.2;++SLCC1;++.NET+CLR+1.1.4322;++.NET+CLR+2.0.40607;++.NET+CLR+3.0.30729;++.NET+CLR+3.5.30707) http://empestol.com.mx/flejes.html empestol.com.mx 200 95083 390
+2013-09-20 18:01:58 W3SVC669312 GET /res/x5cartengine.js 1972 - 131.253.24.128 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.2;++SLCC1;++.NET+CLR+1.1.4322;++.NET+CLR+2.0.40607;++.NET+CLR+3.0.30729;++.NET+CLR+3.5.30707) http://empestol.com.mx/flejes.html empestol.com.mx 200 60578 396
+2013-09-20 18:02:02 W3SVC669312 GET /res/x5settings.js 1972_635015489519445222 - 131.253.24.128 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.2;++SLCC1;++.NET+CLR+1.1.4322;++.NET+CLR+2.0.40607;++.NET+CLR+3.0.30729;++.NET+CLR+3.5.30707) http://empestol.com.mx/flejes.html empestol.com.mx 200 1913 413
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-09-20 20:00:03
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-bytes cs-bytes 
+2013-09-20 20:00:03 W3SVC669312 GET /contacto.html - - 187.208.158.25 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/6.0) http://www.google.com.mx/url?sa=t&rct=j&q=&esrc=s&frm=1&source=web&cd=4&ved=0CEYQFjAD&url=http%3A%2F%2Fwww.empestol.com.mx%2Fcontacto.html&ei=H6k8UqPmMcPD2AWUwoDgCA&usg=AFQjCNHluWHCo57lrZ2lUwUciIG0pOCr6A&sig2=gLshluWqX3tHIYu_UPxJGQ&bvm=bv.52434380,d.b2I www.empestol.com.mx 200 3601 542
+2013-09-20 20:00:04 W3SVC669312 GET /style/reset.css - - 187.208.158.25 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/6.0) http://www.empestol.com.mx/contacto.html www.empestol.com.mx 200 1394 302
+2013-09-20 20:00:04 W3SVC669312 GET /style/print.css - - 187.208.158.25 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/6.0) http://www.empestol.com.mx/contacto.html www.empestol.com.mx 200 479 302
+2013-09-20 20:00:04 W3SVC669312 GET /style/template.css - - 187.208.158.25 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/6.0) http://www.empestol.com.mx/contacto.html www.empestol.com.mx 200 1242 305
+2013-09-20 20:00:04 W3SVC669312 GET /style/menu.css - - 187.208.158.25 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/6.0) http://www.empestol.com.mx/contacto.html www.empestol.com.mx 200 6104 301
+2013-09-20 20:00:04 W3SVC669312 GET /style/style.css - - 187.208.158.25 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/6.0) http://www.empestol.com.mx/contacto.html www.empestol.com.mx 200 11995 302
+2013-09-20 20:00:04 W3SVC669312 GET /res/swfobject.js - - 187.208.158.25 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/6.0) http://www.empestol.com.mx/contacto.html www.empestol.com.mx 200 26504 328
+2013-09-20 20:00:05 W3SVC669312 GET /res/x5settings.js 1972_635015489519757216 - 187.208.158.25 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/6.0) http://www.empestol.com.mx/contacto.html www.empestol.com.mx 200 1913 353
+2013-09-20 20:00:05 W3SVC669312 GET /res/jquery.js 1972 - 187.208.158.25 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/6.0) http://www.empestol.com.mx/contacto.html www.empestol.com.mx 200 95083 330
+2013-09-20 20:00:05 W3SVC669312 GET /pcss/contacto.css - - 187.208.158.25 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/6.0) http://www.empestol.com.mx/contacto.html www.empestol.com.mx 200 6330 304
+2013-09-20 20:00:05 W3SVC669312 GET /res/x5engine.js 1972 - 187.208.158.25 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/6.0) http://www.empestol.com.mx/contacto.html www.empestol.com.mx 200 143980 332
+2013-09-20 20:00:05 W3SVC669312 GET /images/visitanos.png - - 187.208.158.25 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/6.0) http://www.empestol.com.mx/contacto.html www.empestol.com.mx 200 2666 349
+2013-09-20 20:00:05 W3SVC669312 GET /images/tel.png - - 187.208.158.25 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/6.0) http://www.empestol.com.mx/contacto.html www.empestol.com.mx 200 1878 343
+2013-09-20 20:00:05 W3SVC669312 GET /res/l10n.js 1972_635015489519757216 - 187.208.158.25 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/6.0) http://www.empestol.com.mx/contacto.html www.empestol.com.mx 200 15718 347
+2013-09-20 20:00:05 W3SVC669312 GET /res/x5cartengine.js 1972 - 187.208.158.25 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/6.0) http://www.empestol.com.mx/contacto.html www.empestol.com.mx 200 60578 336
+2013-09-20 20:00:06 W3SVC669312 GET /menu/index_h.png - - 187.208.158.25 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/6.0) http://www.empestol.com.mx/contacto.html www.empestol.com.mx 200 508 345
+2013-09-20 20:00:06 W3SVC669312 GET /menu/cintas_h.png - - 187.208.158.25 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/6.0) http://www.empestol.com.mx/contacto.html www.empestol.com.mx 200 550 346
+2013-09-20 20:00:06 W3SVC669312 GET /menu/empaque_h.png - - 187.208.158.25 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/6.0) http://www.empestol.com.mx/contacto.html www.empestol.com.mx 200 587 347
+2013-09-20 20:00:06 W3SVC669312 GET /menu/flejes_h.png - - 187.208.158.25 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/6.0) http://www.empestol.com.mx/contacto.html www.empestol.com.mx 200 570 346
+2013-09-20 20:00:06 W3SVC669312 GET /menu/nosotros_h.png - - 187.208.158.25 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/6.0) http://www.empestol.com.mx/contacto.html www.empestol.com.mx 200 611 348
+2013-09-20 20:00:06 W3SVC669312 GET /menu/carton_h.png - - 187.208.158.25 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/6.0) http://www.empestol.com.mx/contacto.html www.empestol.com.mx 200 576 346
+2013-09-20 20:00:07 W3SVC669312 GET /menu/contacto_h.png - - 187.208.158.25 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/6.0) http://www.empestol.com.mx/contacto.html www.empestol.com.mx 200 593 348
+2013-09-20 20:00:07 W3SVC669312 GET /menu/flejes.png - - 187.208.158.25 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/6.0) http://www.empestol.com.mx/contacto.html www.empestol.com.mx 200 512 344
+2013-09-20 20:00:07 W3SVC669312 GET /res/imClose.png - - 187.208.158.25 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/6.0) http://www.empestol.com.mx/contacto.html www.empestol.com.mx 200 4396 344
+2013-09-20 20:00:07 W3SVC669312 GET /menu/peliculas_h.png - - 187.208.158.25 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/6.0) http://www.empestol.com.mx/contacto.html www.empestol.com.mx 200 604 349
+2013-09-20 20:00:07 W3SVC669312 GET /menu/cintas.png - - 187.208.158.25 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/6.0) http://www.empestol.com.mx/contacto.html www.empestol.com.mx 200 506 344
+2013-09-20 20:00:07 W3SVC669312 GET /menu/peliculas.png - - 187.208.158.25 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/6.0) http://www.empestol.com.mx/contacto.html www.empestol.com.mx 200 543 347
+2013-09-20 20:00:07 W3SVC669312 GET /res/imLoad.gif - - 187.208.158.25 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/6.0) http://www.empestol.com.mx/contacto.html www.empestol.com.mx 200 3433 343
+2013-09-20 20:00:08 W3SVC669312 GET /menu/nosotros.png - - 187.208.158.25 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/6.0) http://www.empestol.com.mx/contacto.html www.empestol.com.mx 200 537 346
+2013-09-20 20:00:08 W3SVC669312 GET /menu/index.png - - 187.208.158.25 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/6.0) http://www.empestol.com.mx/contacto.html www.empestol.com.mx 200 474 343
+2013-09-20 20:00:08 W3SVC669312 GET /menu/empaque.png - - 187.208.158.25 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/6.0) http://www.empestol.com.mx/contacto.html www.empestol.com.mx 200 532 345
+2013-09-20 20:00:08 W3SVC669312 GET /style/bottom.png - - 187.208.158.25 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/6.0) http://www.empestol.com.mx/contacto.html www.empestol.com.mx 200 1537 345
+2013-09-20 20:00:08 W3SVC669312 GET /res/imsearch.png - - 187.208.158.25 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/6.0) http://www.empestol.com.mx/contacto.html www.empestol.com.mx 200 869 345
+2013-09-20 20:00:09 W3SVC669312 GET /captcha/imcpa_fwa.gif - - 187.208.158.25 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/6.0) http://www.empestol.com.mx/captcha/imcaptcha.php?action=show&code=20178 www.empestol.com.mx 200 1424 433
+2013-09-20 20:00:09 W3SVC669312 GET /style/top.png - - 187.208.158.25 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/6.0) http://www.empestol.com.mx/contacto.html www.empestol.com.mx 200 334018 342
+2013-09-20 20:00:09 W3SVC669312 GET /captcha/imcpa_j4n.gif - - 187.208.158.25 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/6.0) http://www.empestol.com.mx/captcha/imcaptcha.php?action=show&code=20178 www.empestol.com.mx 200 1418 433
+2013-09-20 20:00:09 W3SVC669312 GET /captcha/imcpa_vjt.gif - - 187.208.158.25 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/6.0) http://www.empestol.com.mx/captcha/imcaptcha.php?action=show&code=20178 www.empestol.com.mx 200 1641 433
+2013-09-20 20:00:09 W3SVC669312 GET /captcha/imcpa_227.gif - - 187.208.158.25 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/6.0) http://www.empestol.com.mx/captcha/imcaptcha.php?action=show&code=20178 www.empestol.com.mx 200 1624 433
+2013-09-20 20:00:09 W3SVC669312 GET /captcha/imcpa_2an.gif - - 187.208.158.25 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/6.0) http://www.empestol.com.mx/captcha/imcaptcha.php?action=show&code=20178 www.empestol.com.mx 200 1653 433
+2013-09-20 20:00:09 W3SVC669312 GET /menu/carton.png - - 187.208.158.25 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/6.0) http://www.empestol.com.mx/contacto.html www.empestol.com.mx 200 515 344
+2013-09-20 20:00:13 W3SVC669312 GET /captcha/imcaptcha.php action=show&code=20178 - 187.208.158.25 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/6.0) http://www.empestol.com.mx/contacto.html www.empestol.com.mx 200 1679 360
+2013-09-20 20:00:14 W3SVC669312 GET /favicon.ico - - 187.208.158.25 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+Win64;+x64;+Trident/6.0) - www.empestol.com.mx 404 0 238
+2013-09-20 20:01:11 W3SVC669312 GET /peliculas.html - - 187.208.158.25 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/6.0) http://www.empestol.com.mx/contacto.html www.empestol.com.mx 200 2393 382
+2013-09-20 20:01:12 W3SVC669312 GET /res/x5settings.js 1972_635015489516793190 - 187.208.158.25 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/6.0) http://www.empestol.com.mx/peliculas.html www.empestol.com.mx 200 1913 406
+2013-09-20 20:01:13 W3SVC669312 GET /res/l10n.js 1972_635015489516793190 - 187.208.158.25 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/6.0) http://www.empestol.com.mx/peliculas.html www.empestol.com.mx 200 15718 400
+2013-09-20 20:01:13 W3SVC669312 GET /pcss/peliculas.css - - 187.208.158.25 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/6.0) http://www.empestol.com.mx/peliculas.html www.empestol.com.mx 200 2396 358
+2013-09-20 20:01:15 W3SVC669312 GET /menu/contacto.png - - 187.208.158.25 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/6.0) http://www.empestol.com.mx/peliculas.html www.empestol.com.mx 200 534 399
+2013-09-20 20:01:15 W3SVC669312 GET /favicon.ico - - 187.208.158.25 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+Win64;+x64;+Trident/6.0) - www.empestol.com.mx 404 0 238
+2013-09-20 20:08:20 W3SVC669312 GET /carton.html - - 187.208.158.25 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/6.0) http://www.empestol.com.mx/peliculas.html www.empestol.com.mx 200 2391 380
+2013-09-20 20:08:21 W3SVC669312 GET /res/x5settings.js 1972_635015489518509210 - 187.208.158.25 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/6.0) http://www.empestol.com.mx/carton.html www.empestol.com.mx 200 1913 403
+2013-09-20 20:08:21 W3SVC669312 GET /pcss/carton.css - - 187.208.158.25 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/6.0) http://www.empestol.com.mx/carton.html www.empestol.com.mx 200 2396 352
+2013-09-20 20:08:21 W3SVC669312 GET /res/l10n.js 1972_635015489518509210 - 187.208.158.25 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/6.0) http://www.empestol.com.mx/carton.html www.empestol.com.mx 200 15718 397
+2013-09-20 20:08:26 W3SVC669312 GET /empaque.html - - 187.208.158.25 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/6.0) http://www.empestol.com.mx/carton.html www.empestol.com.mx 200 2389 378
+2013-09-20 20:08:26 W3SVC669312 GET /res/l10n.js 1972_635015489519289222 - 187.208.158.25 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/6.0) http://www.empestol.com.mx/empaque.html www.empestol.com.mx 200 15718 398
+2013-09-20 20:08:27 W3SVC669312 GET /res/x5settings.js 1972_635015489519289222 - 187.208.158.25 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/6.0) http://www.empestol.com.mx/empaque.html www.empestol.com.mx 200 1913 404
+2013-09-20 20:08:27 W3SVC669312 GET /pcss/empaque.css - - 187.208.158.25 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/6.0) http://www.empestol.com.mx/empaque.html www.empestol.com.mx 200 2396 354
+2013-09-20 20:09:01 W3SVC669312 GET /captcha/imcpa_a8u.gif - - 187.208.158.25 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/6.0) http://www.empestol.com.mx/captcha/imcaptcha.php?action=show&code=12748 www.empestol.com.mx 200 1434 433
+2013-09-20 20:09:04 W3SVC669312 GET /captcha/imcaptcha.php action=show&code=12748 - 187.208.158.25 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/6.0) http://www.empestol.com.mx/contacto.html www.empestol.com.mx 200 1615 412
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-09-20 20:38:52
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-bytes cs-bytes 
+2013-09-20 20:38:51 W3SVC669312 GET /robots.txt - - 66.249.73.109 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - www.empestol.com.mx 404 4173 269
+2013-09-20 20:38:52 W3SVC669312 GET /index.html - - 66.249.73.109 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - www.empestol.com.mx 200 2678 233
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-09-20 21:33:03
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-bytes cs-bytes 
+2013-09-20 21:33:03 W3SVC669312 GET /cintas.html - - 66.249.73.109 HTTP/1.1 Mozilla/5.0+(iPhone;+U;+CPU+iPhone+OS+4_1+like+Mac+OS+X;+en-us)+AppleWebKit/532.9+(KHTML,+like+Gecko)+Version/4.0.5+Mobile/8B117+Safari/6531.22.7+(compatible;+Googlebot-Mobile/2.1;++http://www.google.com/bot.html) - www.empestol.com.mx 200 4759 385
+2013-09-20 21:42:28 W3SVC669312 GET /style/template.css - - 66.249.73.109 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) http://www.empestol.com.mx/cintas.html www.empestol.com.mx 200 1242 328
+2013-09-20 21:42:30 W3SVC669312 GET /style/style.css - - 66.249.73.109 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) http://www.empestol.com.mx/cintas.html www.empestol.com.mx 200 11995 325
+2013-09-20 21:42:31 W3SVC669312 GET /style/reset.css - - 66.249.73.109 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) http://www.empestol.com.mx/cintas.html www.empestol.com.mx 200 1394 325
+2013-09-20 21:42:33 W3SVC669312 GET /style/menu.css - - 66.249.73.109 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) http://www.empestol.com.mx/cintas.html www.empestol.com.mx 200 6104 324
+2013-09-20 21:42:35 W3SVC669312 GET /pcss/cintas.css - - 66.249.73.109 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) http://www.empestol.com.mx/cintas.html www.empestol.com.mx 200 28184 325
+2013-09-20 21:42:38 W3SVC669312 GET /style/print.css - - 66.249.73.109 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) http://www.empestol.com.mx/cintas.html www.empestol.com.mx 200 479 325
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-09-20 22:36:13
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-bytes cs-bytes 
+2013-09-20 22:36:12 W3SVC669312 GET /robots.txt - - 180.76.5.179 HTTP/1.1 Mozilla/5.0+(Windows+NT+5.1;+rv:6.0.2)+Gecko/20100101+Firefox/6.0.2 - www.empestol.com.mx 404 0 191
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-09-21 03:09:44
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-bytes cs-bytes 
+2013-09-21 03:09:44 W3SVC669312 GET /robots.txt - - 66.249.73.84 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - empestol.com.mx 404 4173 265
+2013-09-21 03:09:45 W3SVC669312 GET /index.html - - 66.249.73.84 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - empestol.com.mx 200 2674 229

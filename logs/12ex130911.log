@@ -1,0 +1,16 @@
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-09-11 16:10:42
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-bytes cs-bytes 
+2013-09-11 16:10:41 W3SVC669312 GET /files/111.jpg - - 148.240.67.222 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_8_4)+AppleWebKit/536.30.1+(KHTML,+like+Gecko)+Version/6.0.5+Safari/536.30.1 - www.empestol.com.mx 200 29093 282
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-09-11 18:40:25
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-bytes cs-bytes 
+2013-09-11 18:40:24 W3SVC669312 GET /files/119.jpg - - 189.251.178.25 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.2;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.66+Safari/537.36 - www.empestol.com.mx 200 32312 304
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-09-12 03:46:55
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-bytes cs-bytes 
+2013-09-12 03:46:55 W3SVC669312 GET /robots.txt - - 199.30.16.6 HTTP/1.1 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) - empestol.com.mx 404 4192 212
+2013-09-12 03:46:57 W3SVC669312 GET /files/104.jpg - - 199.30.16.6 HTTP/1.1 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) - empestol.com.mx 200 37038 392

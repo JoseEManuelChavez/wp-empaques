@@ -1,0 +1,37 @@
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-09-08 12:42:14
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-bytes cs-bytes 
+2013-09-08 12:42:14 W3SVC669312 GET /robots.txt - - 157.56.229.187 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - empestol.com.mx 404 4173 267
+2013-09-08 12:42:37 W3SVC669312 GET /flejes.html - - 157.56.229.187 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - empestol.com.mx 200 4504 281
+2013-09-08 12:46:17 W3SVC669312 GET /index.html - - 157.56.93.52 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - empestol.com.mx 200 2621 280
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-09-08 21:19:32
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-bytes cs-bytes 
+2013-09-08 21:19:32 W3SVC669312 GET /robots.txt - - 199.30.20.34 HTTP/1.1 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) - empestol.com.mx 404 4192 212
+2013-09-08 21:19:33 W3SVC669312 GET /images/99.jpg - - 199.30.20.34 HTTP/1.1 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) - empestol.com.mx 200 8700 392
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-09-08 21:47:15
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-bytes cs-bytes 
+2013-09-08 21:47:15 W3SVC669312 GET /robots.txt - - 199.30.20.19 HTTP/1.1 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) - empestol.com.mx 404 4192 212
+2013-09-08 21:47:17 W3SVC669312 GET /files/109.jpg - - 199.30.20.19 HTTP/1.1 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) - empestol.com.mx 200 27642 392
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-09-09 01:52:30
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-bytes cs-bytes 
+2013-09-09 01:52:30 W3SVC669312 GET /robots.txt - - 199.30.20.1 HTTP/1.1 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) - empestol.com.mx 404 4192 212
+2013-09-09 01:52:31 W3SVC669312 GET /images/96.jpg - - 199.30.20.1 HTTP/1.1 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) - empestol.com.mx 200 9601 392
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-09-09 03:46:32
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-bytes cs-bytes 
+2013-09-09 03:46:32 W3SVC669312 GET /robots.txt - - 199.30.20.48 HTTP/1.1 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) - empestol.com.mx 404 4192 212
+2013-09-09 03:46:33 W3SVC669312 GET /files/106.jpg - - 199.30.20.48 HTTP/1.1 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) - empestol.com.mx 200 36150 392
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-09-09 04:49:36
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-bytes cs-bytes 
+2013-09-09 04:49:36 W3SVC669312 GET /robots.txt - - 199.30.20.144 HTTP/1.1 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) - empestol.com.mx 404 4192 212
+2013-09-09 04:49:37 W3SVC669312 GET /images/106_2q3z66u3.jpg - - 199.30.20.144 HTTP/1.1 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) - empestol.com.mx 200 12912 402

@@ -1,0 +1,109 @@
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-09-05 05:34:53
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-bytes cs-bytes 
+2013-09-05 05:34:53 W3SVC669312 GET /robots.txt - - 157.55.32.101 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - empestol.com.mx 404 4173 267
+2013-09-05 05:34:53 W3SVC669312 GET /robots.txt - - 157.55.32.101 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - www.empestol.com.mx 404 4173 271
+2013-09-05 05:35:35 W3SVC669312 GET /empestol.swf - - 157.55.32.101 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - www.empestol.com.mx 404 4173 286
+2013-09-05 05:35:56 W3SVC669312 GET /empestol.html - - 157.55.32.101 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - empestol.com.mx 404 4173 283
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-09-05 10:47:42
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-bytes cs-bytes 
+2013-09-05 10:47:42 W3SVC669312 GET /files/108.jpg - - 41.226.124.118 HTTP/1.1 Mozilla/5.0+(Windows+NT+5.1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.66+Safari/537.36 - www.empestol.com.mx 200 41100 317
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-09-05 12:13:30
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-bytes cs-bytes 
+2013-09-05 12:13:30 W3SVC669312 GET /style/style.css - - 180.76.5.169 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - empestol.com.mx 304 207 322
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-09-05 14:46:36
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-bytes cs-bytes 
+2013-09-05 14:46:35 W3SVC669312 GET /robots.txt - - 66.249.73.109 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - www.empestol.com.mx 404 4173 269
+2013-09-05 14:46:36 W3SVC669312 GET /flejes.html - - 66.249.73.109 HTTP/1.1 Mozilla/5.0+(iPhone;+U;+CPU+iPhone+OS+4_1+like+Mac+OS+X;+en-us)+AppleWebKit/532.9+(KHTML,+like+Gecko)+Version/4.0.5+Mobile/8B117+Safari/6531.22.7+(compatible;+Googlebot-Mobile/2.1;++http://www.google.com/bot.html) - www.empestol.com.mx 304 210 435
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-09-05 16:08:12
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-bytes cs-bytes 
+2013-09-05 16:08:11 W3SVC669312 GET /robots.txt - - 100.43.83.149 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - www.empestol.com.mx 404 4173 189
+2013-09-05 16:08:15 W3SVC669312 GET /images/117.jpg - - 100.43.83.149 HTTP/1.1 Mozilla/5.0+(compatible;+YandexImages/3.0;++http://yandex.com/bots) - www.empestol.com.mx 304 188 334
+2013-09-05 16:20:23 W3SVC669312 GET /images/96.jpg - - 100.43.83.149 HTTP/1.1 Mozilla/5.0+(compatible;+YandexImages/3.0;++http://yandex.com/bots) - www.empestol.com.mx 304 188 333
+2013-09-05 16:23:39 W3SVC669312 GET /images/122.jpg - - 100.43.83.149 HTTP/1.1 Mozilla/5.0+(compatible;+YandexImages/3.0;++http://yandex.com/bots) - www.empestol.com.mx 304 188 334
+2013-09-05 16:25:48 W3SVC669312 GET /gallery/120_thumb.png - - 100.43.83.149 HTTP/1.1 Mozilla/5.0+(compatible;+YandexImages/3.0;++http://yandex.com/bots) - www.empestol.com.mx 304 188 341
+2013-09-05 16:26:53 W3SVC669312 GET /gallery/24.jpg - - 100.43.83.149 HTTP/1.1 Mozilla/5.0+(compatible;+YandexImages/3.0;++http://yandex.com/bots) - www.empestol.com.mx 304 188 334
+2013-09-05 16:37:20 W3SVC669312 GET /images/100.jpg - - 100.43.83.149 HTTP/1.1 Mozilla/5.0+(compatible;+YandexImages/3.0;++http://yandex.com/bots) - www.empestol.com.mx 304 187 334
+2013-09-05 16:38:33 W3SVC669312 GET /files/110.jpg - - 100.43.83.149 HTTP/1.1 Mozilla/5.0+(compatible;+YandexImages/3.0;++http://yandex.com/bots) - www.empestol.com.mx 304 188 333
+2013-09-05 16:42:43 W3SVC669312 GET /index.html - - 173.252.100.112 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - www.empestol.com.mx 206 2725 224
+2013-09-05 16:47:59 W3SVC669312 GET /images/99.jpg - - 100.43.83.149 HTTP/1.1 Mozilla/5.0+(compatible;+YandexImages/3.0;++http://yandex.com/bots) - www.empestol.com.mx 304 188 333
+2013-09-05 16:50:20 W3SVC669312 GET /images/112.jpg - - 100.43.83.149 HTTP/1.1 Mozilla/5.0+(compatible;+YandexImages/3.0;++http://yandex.com/bots) - www.empestol.com.mx 304 188 334
+2013-09-05 16:52:55 W3SVC669312 GET /robots.txt - - 157.55.32.101 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - empestol.com.mx 404 4173 267
+2013-09-05 16:54:33 W3SVC669312 GET /files/104.jpg - - 100.43.83.149 HTTP/1.1 Mozilla/5.0+(compatible;+YandexImages/3.0;++http://yandex.com/bots) - www.empestol.com.mx 304 187 333
+2013-09-05 16:55:01 W3SVC669312 GET /index.html - - 157.55.32.101 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - empestol.com.mx 304 264 360
+2013-09-05 17:08:40 W3SVC669312 GET /gallery/45_5598ve91.jpg - - 100.43.83.149 HTTP/1.1 Mozilla/5.0+(compatible;+YandexImages/3.0;++http://yandex.com/bots) - www.empestol.com.mx 304 188 343
+2013-09-05 17:10:06 W3SVC669312 GET /images/109.jpg - - 100.43.83.149 HTTP/1.1 Mozilla/5.0+(compatible;+YandexImages/3.0;++http://yandex.com/bots) - www.empestol.com.mx 304 187 334
+2013-09-05 17:11:14 W3SVC669312 GET /files/107.jpg - - 100.43.83.149 HTTP/1.1 Mozilla/5.0+(compatible;+YandexImages/3.0;++http://yandex.com/bots) - www.empestol.com.mx 304 188 333
+2013-09-05 17:18:35 W3SVC669312 GET /files/105.jpg - - 189.228.117.19 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+rv:23.0)+Gecko/20100101+Firefox/23.0 - www.empestol.com.mx 200 30980 305
+2013-09-05 17:26:10 W3SVC669312 GET /images/105.jpg - - 100.43.83.149 HTTP/1.1 Mozilla/5.0+(compatible;+YandexImages/3.0;++http://yandex.com/bots) - www.empestol.com.mx 304 188 334
+2013-09-05 17:40:40 W3SVC669312 GET /images/106_2q3z66u3.jpg - - 100.43.83.149 HTTP/1.1 Mozilla/5.0+(compatible;+YandexImages/3.0;++http://yandex.com/bots) - www.empestol.com.mx 304 188 343
+2013-09-05 17:46:03 W3SVC669312 GET /images/113.jpg - - 100.43.83.149 HTTP/1.1 Mozilla/5.0+(compatible;+YandexImages/3.0;++http://yandex.com/bots) - www.empestol.com.mx 304 188 334
+2013-09-05 17:54:08 W3SVC669312 GET /images/119.jpg - - 100.43.83.149 HTTP/1.1 Mozilla/5.0+(compatible;+YandexImages/3.0;++http://yandex.com/bots) - www.empestol.com.mx 304 188 334
+2013-09-05 17:56:17 W3SVC669312 GET /nosotros.html - - 66.249.73.109 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - www.empestol.com.mx 200 3524 199
+2013-09-05 18:04:39 W3SVC669312 GET /gallery/45_thumb_g1v62hr4.png - - 100.43.83.149 HTTP/1.1 Mozilla/5.0+(compatible;+YandexImages/3.0;++http://yandex.com/bots) - www.empestol.com.mx 304 188 349
+2013-09-05 18:12:55 W3SVC669312 GET /images/40.png - - 100.43.83.149 HTTP/1.1 Mozilla/5.0+(compatible;+YandexImages/3.0;++http://yandex.com/bots) - www.empestol.com.mx 304 188 333
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-09-05 18:57:10
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-bytes cs-bytes 
+2013-09-05 18:57:09 W3SVC669312 GET /gallery/33_thumb_8xs17p8b.png - - 100.43.83.149 HTTP/1.1 Mozilla/5.0+(compatible;+YandexImages/3.0;++http://yandex.com/bots) - www.empestol.com.mx 304 188 349
+2013-09-05 19:06:08 W3SVC669312 GET /images/116.jpg - - 100.43.83.149 HTTP/1.1 Mozilla/5.0+(compatible;+YandexImages/3.0;++http://yandex.com/bots) - www.empestol.com.mx 304 187 334
+2013-09-05 19:06:48 W3SVC669312 GET /gallery/12.jpg - - 100.43.83.149 HTTP/1.1 Mozilla/5.0+(compatible;+YandexImages/3.0;++http://yandex.com/bots) - www.empestol.com.mx 304 188 334
+2013-09-05 19:14:47 W3SVC669312 GET /images/110.jpg - - 100.43.83.149 HTTP/1.1 Mozilla/5.0+(compatible;+YandexImages/3.0;++http://yandex.com/bots) - www.empestol.com.mx 304 188 334
+2013-09-05 19:18:42 W3SVC669312 GET /files/122.jpg - - 100.43.83.149 HTTP/1.1 Mozilla/5.0+(compatible;+YandexImages/3.0;++http://yandex.com/bots) - www.empestol.com.mx 304 188 333
+2013-09-05 19:29:01 W3SVC669312 GET /images/embalaje1.png - - 100.43.83.149 HTTP/1.1 Mozilla/5.0+(compatible;+YandexImages/3.0;++http://yandex.com/bots) - www.empestol.com.mx 304 188 340
+2013-09-05 19:30:06 W3SVC669312 GET /images/111.jpg - - 100.43.83.149 HTTP/1.1 Mozilla/5.0+(compatible;+YandexImages/3.0;++http://yandex.com/bots) - www.empestol.com.mx 304 188 334
+2013-09-05 19:43:21 W3SVC669312 GET /files/117.jpg - - 100.43.83.149 HTTP/1.1 Mozilla/5.0+(compatible;+YandexImages/3.0;++http://yandex.com/bots) - www.empestol.com.mx 304 188 333
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-09-05 19:59:46
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-bytes cs-bytes 
+2013-09-05 19:59:45 W3SVC669312 GET /images/104.jpg - - 100.43.83.149 HTTP/1.1 Mozilla/5.0+(compatible;+YandexImages/3.0;++http://yandex.com/bots) - www.empestol.com.mx 304 187 334
+2013-09-05 20:04:25 W3SVC669312 GET /files/105.jpg - - 100.43.83.149 HTTP/1.1 Mozilla/5.0+(compatible;+YandexImages/3.0;++http://yandex.com/bots) - www.empestol.com.mx 304 188 333
+2013-09-05 20:12:10 W3SVC669312 GET /files/119.jpg - - 100.43.83.149 HTTP/1.1 Mozilla/5.0+(compatible;+YandexImages/3.0;++http://yandex.com/bots) - www.empestol.com.mx 304 188 333
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-09-05 20:28:54
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-bytes cs-bytes 
+2013-09-05 20:28:54 W3SVC669312 GET /gallery/121.jpg - - 100.43.83.149 HTTP/1.1 Mozilla/5.0+(compatible;+YandexImages/3.0;++http://yandex.com/bots) - www.empestol.com.mx 304 188 335
+2013-09-05 20:42:47 W3SVC669312 GET /images/44.jpg - - 100.43.83.149 HTTP/1.1 Mozilla/5.0+(compatible;+YandexImages/3.0;++http://yandex.com/bots) - www.empestol.com.mx 304 188 333
+2013-09-05 20:47:34 W3SVC669312 GET /gallery/120.jpg - - 100.43.83.149 HTTP/1.1 Mozilla/5.0+(compatible;+YandexImages/3.0;++http://yandex.com/bots) - www.empestol.com.mx 304 188 335
+2013-09-05 20:57:19 W3SVC669312 GET /images/tel_lu6umf7h.png - - 100.43.83.149 HTTP/1.1 Mozilla/5.0+(compatible;+YandexImages/3.0;++http://yandex.com/bots) - www.empestol.com.mx 304 187 343
+2013-09-05 21:04:51 W3SVC669312 GET /files/108.jpg - - 100.43.83.149 HTTP/1.1 Mozilla/5.0+(compatible;+YandexImages/3.0;++http://yandex.com/bots) - www.empestol.com.mx 304 188 333
+2013-09-05 21:08:24 W3SVC669312 GET /gallery/66_thumb.png - - 100.43.83.149 HTTP/1.1 Mozilla/5.0+(compatible;+YandexImages/3.0;++http://yandex.com/bots) - www.empestol.com.mx 304 187 340
+2013-09-05 21:11:36 W3SVC669312 GET /images/108.jpg - - 100.43.83.149 HTTP/1.1 Mozilla/5.0+(compatible;+YandexImages/3.0;++http://yandex.com/bots) - www.empestol.com.mx 304 188 334
+2013-09-05 21:12:30 W3SVC669312 GET /gallery/24_thumb.png - - 100.43.83.149 HTTP/1.1 Mozilla/5.0+(compatible;+YandexImages/3.0;++http://yandex.com/bots) - www.empestol.com.mx 304 188 340
+2013-09-05 21:12:55 W3SVC669312 GET /files/111.jpg - - 100.43.83.149 HTTP/1.1 Mozilla/5.0+(compatible;+YandexImages/3.0;++http://yandex.com/bots) - www.empestol.com.mx 304 188 333
+2013-09-05 21:13:53 W3SVC669312 GET /images/36.jpg - - 100.43.83.149 HTTP/1.1 Mozilla/5.0+(compatible;+YandexImages/3.0;++http://yandex.com/bots) - www.empestol.com.mx 304 188 333
+2013-09-05 21:20:29 W3SVC669312 GET /gallery/12_thumb.png - - 100.43.83.149 HTTP/1.1 Mozilla/5.0+(compatible;+YandexImages/3.0;++http://yandex.com/bots) - www.empestol.com.mx 304 188 340
+2013-09-05 21:24:19 W3SVC669312 GET /gallery/66.jpg - - 100.43.83.149 HTTP/1.1 Mozilla/5.0+(compatible;+YandexImages/3.0;++http://yandex.com/bots) - www.empestol.com.mx 304 188 334
+2013-09-05 21:29:07 W3SVC669312 GET /gallery/33_we98yr51.jpg - - 100.43.83.149 HTTP/1.1 Mozilla/5.0+(compatible;+YandexImages/3.0;++http://yandex.com/bots) - www.empestol.com.mx 304 188 343
+2013-09-05 21:32:51 W3SVC669312 GET /files/109.jpg - - 100.43.83.149 HTTP/1.1 Mozilla/5.0+(compatible;+YandexImages/3.0;++http://yandex.com/bots) - www.empestol.com.mx 304 188 333
+2013-09-05 21:42:03 W3SVC669312 GET /files/106.jpg - - 100.43.83.149 HTTP/1.1 Mozilla/5.0+(compatible;+YandexImages/3.0;++http://yandex.com/bots) - www.empestol.com.mx 304 187 333
+2013-09-05 21:45:04 W3SVC669312 GET /images/97.jpg - - 100.43.83.149 HTTP/1.1 Mozilla/5.0+(compatible;+YandexImages/3.0;++http://yandex.com/bots) - www.empestol.com.mx 304 188 333
+2013-09-05 21:50:12 W3SVC669312 GET /gallery/121_thumb.png - - 100.43.83.149 HTTP/1.1 Mozilla/5.0+(compatible;+YandexImages/3.0;++http://yandex.com/bots) - www.empestol.com.mx 304 187 341
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-09-06 01:16:53
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-bytes cs-bytes 
+2013-09-06 01:16:52 W3SVC669312 GET /index.html - - 66.249.73.109 HTTP/1.1 Mozilla/5.0+(iPhone;+U;+CPU+iPhone+OS+4_1+like+Mac+OS+X;+en-us)+AppleWebKit/532.9+(KHTML,+like+Gecko)+Version/4.0.5+Mobile/8B117+Safari/6531.22.7+(compatible;+Googlebot-Mobile/2.1;++http://www.google.com/bot.html) - www.empestol.com.mx 200 2678 374
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-09-06 02:19:58
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-bytes cs-bytes 
+2013-09-06 02:19:58 W3SVC669312 GET /files/117.jpg - - 201.173.140.147 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.1;+WOW64;+Trident/6.0) - www.empestol.com.mx 200 30211 291
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-09-06 02:55:57
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-bytes cs-bytes 
+2013-09-06 02:55:56 W3SVC669312 GET /robots.txt - - 66.249.73.109 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - www.empestol.com.mx 404 4173 269
+2013-09-06 02:55:57 W3SVC669312 GET /cintas.html - - 66.249.73.109 HTTP/1.1 Mozilla/5.0+(iPhone;+U;+CPU+iPhone+OS+4_1+like+Mac+OS+X;+en-us)+AppleWebKit/532.9+(KHTML,+like+Gecko)+Version/4.0.5+Mobile/8B117+Safari/6531.22.7+(compatible;+Googlebot-Mobile/2.1;++http://www.google.com/bot.html) - www.empestol.com.mx 304 210 435

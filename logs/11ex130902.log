@@ -1,0 +1,54 @@
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-09-02 08:30:43
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-bytes cs-bytes 
+2013-09-02 08:30:43 W3SVC669312 GET /pcss/cintas.css - - 180.76.5.154 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - www.empestol.com.mx 200 28203 236
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-09-02 09:34:02
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-bytes cs-bytes 
+2013-09-02 09:34:01 W3SVC669312 GET /robots.txt - - 66.249.73.109 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - www.empestol.com.mx 404 4173 269
+2013-09-02 09:34:02 W3SVC669312 GET /nosotros.html - - 66.249.73.109 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - www.empestol.com.mx 200 3524 246
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-09-02 09:50:13
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-bytes cs-bytes 
+2013-09-02 09:50:13 W3SVC669312 GET /flejes.html - - 66.249.73.109 HTTP/1.1 Mozilla/5.0+(iPhone;+U;+CPU+iPhone+OS+4_1+like+Mac+OS+X;+en-us)+AppleWebKit/532.9+(KHTML,+like+Gecko)+Version/4.0.5+Mobile/8B117+Safari/6531.22.7+(compatible;+Googlebot-Mobile/2.1;++http://www.google.com/bot.html) - www.empestol.com.mx 304 210 435
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-09-02 10:27:08
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-bytes cs-bytes 
+2013-09-02 10:27:07 W3SVC669312 GET /style/menu.css - - 180.76.5.154 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - empestol.com.mx 304 206 320
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-09-02 13:00:14
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-bytes cs-bytes 
+2013-09-02 13:00:14 W3SVC669312 GET /robots.txt - - 157.55.34.74 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - empestol.com.mx 404 4173 267
+2013-09-02 13:01:30 W3SVC669312 GET /imsitemap.html - - 157.55.34.74 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - empestol.com.mx 304 210 373
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-09-02 16:24:30
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-bytes cs-bytes 
+2013-09-02 16:24:29 W3SVC669312 GET /res/x5settings.js - - 180.76.5.95 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - empestol.com.mx 304 207 324
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-09-02 18:24:52
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-bytes cs-bytes 
+2013-09-02 18:24:51 W3SVC669312 GET /index.html - - 180.76.5.196 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - www.empestol.com.mx 200 2697 221
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-09-03 01:13:03
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-bytes cs-bytes 
+2013-09-03 01:13:03 W3SVC669312 GET /robots.txt - - 66.249.73.109 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - www.empestol.com.mx 404 4173 269
+2013-09-03 01:13:04 W3SVC669312 GET /index.html - - 66.249.73.109 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - www.empestol.com.mx 200 2678 233
+2013-09-03 01:24:30 W3SVC669312 GET /style/reset.css - - 66.249.73.109 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - www.empestol.com.mx 200 1394 248
+2013-09-03 01:24:43 W3SVC669312 GET /style/style.css - - 66.249.73.109 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - www.empestol.com.mx 200 11995 248
+2013-09-03 01:24:53 W3SVC669312 GET /style/template.css - - 66.249.73.109 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - www.empestol.com.mx 200 1242 251
+2013-09-03 01:25:01 W3SVC669312 GET /style/print.css - - 66.249.73.109 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - www.empestol.com.mx 200 479 248
+2013-09-03 01:25:03 W3SVC669312 GET /style/menu.css - - 66.249.73.109 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - www.empestol.com.mx 200 6104 247
+2013-09-03 01:25:04 W3SVC669312 GET /pcss/index.css - - 66.249.73.109 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - www.empestol.com.mx 200 2316 247
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-09-03 01:49:54
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-bytes cs-bytes 
+2013-09-03 01:49:54 W3SVC669312 GET /cintas.html - - 66.249.73.109 HTTP/1.1 Mozilla/5.0+(iPhone;+U;+CPU+iPhone+OS+4_1+like+Mac+OS+X;+en-us)+AppleWebKit/532.9+(KHTML,+like+Gecko)+Version/4.0.5+Mobile/8B117+Safari/6531.22.7+(compatible;+Googlebot-Mobile/2.1;++http://www.google.com/bot.html) - www.empestol.com.mx 304 210 435
